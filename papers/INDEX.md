@@ -1,0 +1,1027 @@
+# 论文索引
+
+共收录 988 篇（Lancet / NEJM / JAMA 近期实质性文献）
+
+## The Lancet（柳叶刀）（215 篇）
+
+### 2026-09
+
+- [Lesley Southgate](lancet/2026-09/42785317.md) — 2026-09-26
+- [Teresa Lambe: making vaccines, saving lives](lancet/2026-09/42785316.md) — 2026-09-26
+- [The NUS-Lancet PRIME Commission: transforming pandemic readiness for equity](lancet/2026-09/42764017.md) — 2026-09-26（Equity (law) · Pandemic · Prime (order theory)）
+- [Beyond rescue: building a resilient health system after Nepal's 2026 flood](lancet/2026-09/42759528.md) — 2026-09-26（Flood myth · Resilience (materials science) · Environmental planning）
+- [The Accra Reset must turn sovereignty into country power](lancet/2026-09/42748948.md) — 2026-09-26（Reset (finance) · Power (physics) · Sovereignty）
+- [Late-onset seizures as a sentinel of Alzheimer's disease progression in Down syndrome](lancet/2026-09/42692041.md) — 2026-09-26（Medicine · Down syndrome · Pediatrics）
+- [Natural history and clinical impact of epilepsy in adults with Down syndrome: a multicentre clinical study](lancet/2026-09/42692040.md) — 2026-09-26 🆓（Medicine · Clinical study · Epilepsy）
+- [Cardiac resynchronisation therapy: 30 years of progress](lancet/2026-09/42673981.md) — 2026-09-26（Medicine · Cardiology · Ventricle）
+- [Targeted left ventricular lead placement in biventricular pacing for heart failure: a national, multicentre, double-blind, randomised controlled trial in Denmark](lancet/2026-09/42673980.md) — 2026-09-26（Medicine · Lead (geology) · Cardiology）
+- [Aetiology, management, and outcomes of acute heart failure in 17 African countries (THESUS-HF II): a prospective, multicentre, observational cohort study](lancet/2026-09/42669305.md) — 2026-09-26（Medicine · Observational study · Heart failure）
+- [Acute heart failure in Africa: new causes, unchanged outcomes](lancet/2026-09/42669303.md) — 2026-09-26（Medicine · Heart failure · Cardiology）
+- [Adjuvant radiotherapy for atypical meningioma](lancet/2026-09/42790457.md) — 2026-09-25（Medicine · Adjuvant radiotherapy · Radiation therapy）
+- [Radiotherapy versus observation following surgical resection of WHO grade 2 atypical meningioma (ROAM/EORTC-1308): an international, multicentre, open-label, phase 3, randomised controlled trial](lancet/2026-09/42790456.md) — 2026-09-25 🆓（Medicine · Radiation therapy · Randomized controlled trial）
+- [Faecal microbiota transplantation in irritable bowel syndrome (REFIT2): a randomised, double-blind, placebo-controlled, phase 3 trial](lancet/2026-09/42785338.md) — 2026-09-24（Medicine · Irritable bowel syndrome · Internal medicine）
+- [Healthy donor faecal microbiota transplantation in irritable bowel syndrome: interpreting negative findings](lancet/2026-09/42785337.md) — 2026-09-24（Medicine · Irritable bowel syndrome · Internal medicine）
+- [Understanding peripheral arterial disease in the current era](lancet/2026-09/42772316.md) — 2026-09-22 🆓（Medicine · Peripheral · Arterial disease）
+- [Current advancements in the care of peripheral arterial disease: modern approaches to medical, endovascular, and surgical treatment](lancet/2026-09/42772315.md) — 2026-09-22（Medicine · Intensive care medicine · Current (fluid)）
+- [Peripheral arterial disease: adverse impacts, disparities in outcomes, and the path ahead](lancet/2026-09/42772314.md) — 2026-09-22 🆓（Path (computing) · Peripheral · Medicine）
+- [The arts belong at the heart of health policy](lancet/2026-09/42767258.md) — 2026-09-21（The arts · Christian ministry · Public health）
+- [The arts as a global health resource: key priorities for future research](lancet/2026-09/42767257.md) — 2026-09-21（Key (lock) · Global health · The arts）
+- [Developing roadmaps for advancing practice, research, and policy in the arts and health](lancet/2026-09/42767256.md) — 2026-09-21（The arts · Political science · Engineering ethics）
+- [2026 World Health Summit Academic Alliance Declaration: health and peace in a world in turmoil](lancet/2026-09/42764015.md) — 2026-09-20（Summit · Alliance · Political science）
+- [Vadim Pokrovsky](lancet/2026-09/42753753.md) — 2026-09-19
+- [Why medicine needs philosophy of medicine](lancet/2026-09/42753752.md) — 2026-09-19（Natural medicine · Point (geometry) · Natural (archaeology)）
+- [Waleska Teixeira Caiaffa: shaping healthier cities](lancet/2026-09/42753751.md) — 2026-09-19
+- [Perioperative immunotherapy goes global in gastro-oesophageal cancer](lancet/2026-09/42716075.md) — 2026-09-19（Medicine · Cancer · Intensive care medicine）
+- [Perioperative durvalumab plus fluorouracil, leucovorin, oxaliplatin, and docetaxel for resectable gastric and gastro-oesophageal junction adenocarcinoma (MATTERHORN): final results of overall survival and event-free survival by pathological response in a global, randomised, double-blind, placebo-controlled, multicentre, phase 3 trial](lancet/2026-09/42716074.md) — 2026-09-19 🆓（Medicine · Docetaxel · Durvalumab）
+- [Wildfire smoke and health: current evidence, mechanisms, and future challenges](lancet/2026-09/42710519.md) — 2026-09-19 🆓（Current (fluid) · Environmental science · Smoke）
+- [Early-life primary prevention of childhood asthma](lancet/2026-09/42705252.md) — 2026-09-19（Medicine · Asthma · Respiratory tract）
+- [Use of the bacterial lysate OM-85 for the primary prevention of wheezing lower respiratory illness in preschool children: a randomised, placebo-controlled trial](lancet/2026-09/42705251.md) — 2026-09-19 🆓（Medicine · Respiratory illness · Primary prevention）
+- [Closing the preparedness gap: moving beyond emergency response to sustain the medical countermeasure ecosystem](lancet/2026-09/42692042.md) — 2026-09-19（Closing (real estate) · Countermeasure · Preparedness）
+- [Discontinuation of β-blockers in stable patients with previous myocardial infarction, preserved left ventricular ejection fraction, and no heart failure: a pooled analysis of individual patient data](lancet/2026-09/42669300.md) — 2026-09-19（Discontinuation · Medicine · Clinical endpoint）
+- [Stopping β-blockers long after myocardial infarction](lancet/2026-09/42669299.md) — 2026-09-19（Medicine · Myocardial infarction · Cardiology）
+- [What makes a meta-analysis believable?](lancet/2026-09/42617619.md) — 2026-09-19 🆓（Trustworthiness · Primary care · Noise (video)）
+- [Advancing women's, children's, and adolescents' health in the post-2030 era](lancet/2026-09/42612660.md) — 2026-09-19（Political science · MEDLINE · Economic growth）
+- [Precision prevention and early detection: framework for a new clinical cancer control pathway](lancet/2026-09/42759527.md) — 2026-09-18（Medicine · Cancer prevention · Intervention (counseling)）
+- [Switch to injectable cabotegravir-rilpivirine given every 8 weeks in adolescents living with HIV with virological suppression in sub-Saharan Africa (LATA): a randomised, open-label, multicentre, 96-week non-inferiority trial](lancet/2026-09/42753775.md) — 2026-09-17 🆓（Medicine · Human immunodeficiency virus (HIV) · Internal medicine）
+- [Compassionate care for patients with Ebola virus disease](lancet/2026-09/42735692.md) — 2026-09-14（Medicine · Ebola virus · Disease）
+- [The US experiments with international reference pricing for prescription drugs](lancet/2026-09/42732770.md) — 2026-09-13（Medical prescription · Business · Actuarial science）
+- [Most-favoured-nation pricing for prescription drugs in US Medicare: a cohort study](lancet/2026-09/42732769.md) — 2026-09-13（Medicine · Medical prescription · Cohort study）
+- [Maura L Gillison](lancet/2026-09/42721985.md) — 2026-09-12（Medicine · Cancer · Gynecology）
+- [rVSVΔG-ZEBOV-GP vaccine-induced seroreactivity to Bundibugyo virus: a cross-protection dilemma](lancet/2026-09/42721983.md) — 2026-09-12（Dilemma · Medicine · Immunology）
+- [Mitapivat for transfusion-dependent α-thalassaemia and β-thalassaemia](lancet/2026-09/42721982.md) — 2026-09-12（Medicine · MEDLINE · Computer science）
+- [Efficacy and safety of mitapivat in adults with transfusion-dependent α-thalassaemia or β-thalassaemia (ENERGIZE-T): a double-blind, randomised, multicentre, placebo-controlled, phase 3 trial](lancet/2026-09/42721980.md) — 2026-09-12（Medicine · Phase (matter) · Internal medicine）
+- [The changing therapeutic landscape of small-cell lung cancer](lancet/2026-09/42702213.md) — 2026-09-12（Medicine · Lung cancer · Oncology）
+- [Kidney xenotransplantation-bridge to allotransplantation or destination treatment?](lancet/2026-09/42692039.md) — 2026-09-12（Medicine · Allotransplantation · Kidney）
+- [Porcine kidney xenotransplantation as a bridge to allotransplantation: a first-in-human study](lancet/2026-09/42692038.md) — 2026-09-12（Xenotransplantation · Bridge (graph theory) · Kidney）
+- [Catheter ablation for symptomatic atrial fibrillation (PVI-SHAM-AF): a randomised, double-blind, sham-controlled, multicentre trial](lancet/2026-09/42669307.md) — 2026-09-12 🆓（Medicine · Atrial fibrillation · Catheter ablation）
+- [Rethinking success after atrial fibrillation ablation: when sham is more than a placebo](lancet/2026-09/42669302.md) — 2026-09-12（Medicine · Atrial fibrillation · Internal medicine）
+- [Bundibugyo virus glycoprotein seroreactivity following recombinant vesicular stomatitis virus-Zaire Ebola virus glycoprotein vaccination in outbreak-affected populations of the Democratic Republic of the Congo: a longitudinal cohort study](lancet/2026-09/42641631.md) — 2026-09-12 🆓（Virology · Vesicular stomatitis virus · Ebola virus）
+- [Oropharyngeal ulcers in Yao syndrome with multisystem involvement](lancet/2026-09/42624807.md) — 2026-09-12（Medicine · Dermatology · MEDLINE）
+- [Towards a joint classification of neurological and psychiatric disorders](lancet/2026-09/42580356.md) — 2026-09-12 🆓（Medicine · Joint (building) · Psychiatry）
+- [Immunogenicity of fractional one-fifth and one-half doses of 17DD yellow fever vaccine compared with full dose in children aged 9-23 months in Uganda: a phase 4, single-blind, randomised clinical trial](lancet/2026-09/42727590.md) — 2026-09-11（Medicine · Immunogenicity · Yellow fever vaccine）
+- [ALIMA: the NGO doing things differently](lancet/2026-09/42716077.md) — 2026-09-09
+- [The US opioid epidemic at a turning point](lancet/2026-09/42716076.md) — 2026-09-09
+- [The WHS Academic Alliance-Lancet Commission on academic responsibility for trust in science and societal change](lancet/2026-09/42716073.md) — 2026-09-09（Commission · Political science · Public relations）
+- [Global health reform is missing a generation](lancet/2026-09/42710518.md) — 2026-09-08（Agency (philosophy) · Global health · Economic growth）
+- [Wealth redistribution policies to mitigate the impact of development assistance defunding: a retrospective evaluation and forecasting analysis up to 2030](lancet/2026-09/42705250.md) — 2026-09-07 🆓（Redistribution (election) · Economics · Public economics）
+- [Can wealth redistribution offset the collapse of aid?](lancet/2026-09/42705249.md) — 2026-09-07（Economics · Offset (computer science) · Redistribution (election)）
+- [Induction and consolidation atezolizumab with stereotactic body radiation therapy versus radiation alone in high-risk, early-stage non-small-cell lung cancer (SWOG/NRG S1914): a multicentre, open-label, superiority, phase 3, randomised controlled trial](lancet/2026-09/42702214.md) — 2026-09-06（Atezolizumab · Medicine · Randomized controlled trial）
+- [Liposuction versus conservative therapy for patients with lipoedema in Germany: a multicentre, randomised controlled clinical trial](lancet/2026-09/42692034.md) — 2026-09-05 🆓（Medicine · Liposuction · Surgery）
+- [Susumu Tonegawa](lancet/2026-09/42692033.md) — 2026-09-05
+- [Disability expertise: a paediatrician with cerebral palsy in Japan](lancet/2026-09/42692032.md) — 2026-09-05（Medicine · Cerebral palsy · Pediatrics）
+- [The girl who danced with fire](lancet/2026-09/42692031.md) — 2026-09-05（Arcadia · Girl · Breast cancer）
+- [Tokenising the patient journey: from records to representations](lancet/2026-09/42692030.md) — 2026-09-05（Computer science · Medical record · Medicine）
+- [Anna Ugalde: delivering accessible and equitable rural health care](lancet/2026-09/42692029.md) — 2026-09-05（Nursing · Health care · Rural health）
+- [Robotics in total knee replacement](lancet/2026-09/42692027.md) — 2026-09-05
+- [Redefining treatment goals in lipoedema: the case for liposuction as a curative approach](lancet/2026-09/42692026.md) — 2026-09-05（Liposuction · Medicine · Surgery）
+- [Cardiovascular disease in pregnancy: physiology, global burden, risk stratification, and opportunities in care](lancet/2026-09/42669306.md) — 2026-09-05（Medicine · Pregnancy · Disease）
+- [Adverse pregnancy outcomes and long-term cardiovascular disease risk](lancet/2026-09/42669304.md) — 2026-09-05（Medicine · Disease · Pregnancy）
+- [Deep and durable lipoprotein(a) lowering: Kylo-11 advances RNA interference therapeutics](lancet/2026-09/42664980.md) — 2026-09-05（RNA interference · Interference (communication) · RNA）
+- [Safety and lipoprotein(a)-lowering effects of Kylo-11, a non-canonical, long-duration small interfering RNA targeting lipoprotein(a): a first-in-human, randomised, double-blind, placebo-controlled, phase 1 trial](lancet/2026-09/42664979.md) — 2026-09-05（Small interfering RNA · Chemistry · RNA）
+- [Robotic-arm-assisted versus conventional total knee replacement (RACER-Knee): a pragmatic, multicentre, participant-masked and assessor-masked, superiority, randomised controlled trial](lancet/2026-09/42624811.md) — 2026-09-05 🆓（Medicine · Randomized controlled trial · Total knee replacement）
+- [Women's health is precision medicine's unfinished business-reframing for global impact](lancet/2026-09/42607696.md) — 2026-09-05（Global health · MEDLINE · Environmental planning）
+- [Intersectionality in climate and health equity research](lancet/2026-09/42497874.md) — 2026-09-05（Intersectionality · Health equity · Equity (law)）
+- [The imperative for the global community to save the Paris Climate Agreement](lancet/2026-09/41077050.md) — 2026-09-05（Climate change · Greenhouse gas · United Nations Framework Convention on Climate Change）
+- [Charting a path to health for all at net-zero emissions](lancet/2026-09/40294615.md) — 2026-09-05 🆓（Path (computing) · Zero emission · Zero (linguistics)）
+- [High-quality mentorship can improve physician-scientist recruitment, retention, and career satisfaction](lancet/2026-09/42697213.md) — 2026-09-04（Mentorship · Medical education · Psychology）
+
+### 2026-08
+
+- [Safety and efficacy of the 0/1 h pathway for myocardial infarction in the emergency department: an international, pragmatic, stepped-wedge, cluster-randomised, controlled trial](lancet/2026-08/42667934.md) — 2026-08-29（Medicine · Myocardial infarction · Emergency department）
+- [Systematic reviews and the needs of the adolescent transgender health care field](lancet/2026-08/42660154.md) — 2026-08-29（Systematic review · Health care · Government (linguistics)）
+- [Pre-eclampsia](lancet/2026-08/42660153.md) — 2026-08-29（Medicine · Incidence (geometry) · Pregnancy）
+- [Joseph F Fraumeni, Jr](lancet/2026-08/42660141.md) — 2026-08-29（Epidemiology · Epidemiology of cancer · Genetic epidemiology）
+- [The pathologising of healthy ageing](lancet/2026-08/42660140.md) — 2026-08-29（Lyrics · Medicine · Dance）
+- [Public health and the politics of human thriving](lancet/2026-08/42660139.md) — 2026-08-29（Thriving · Public health · Politics）
+- [Mangenda Kamara: supporting adolescent mothers to thrive](lancet/2026-08/42660138.md) — 2026-08-29（Daughter · Psychology · Focus (optics)）
+- [Rezpegaldesleukin treatment of moderate-to-severe atopic dermatitis (REZOLVE-AD): final results from the 16-week induction period of an international, double-blind, placebo-controlled, randomised phase 2b study](lancet/2026-08/42628554.md) — 2026-08-29（Medicine · Atopic dermatitis · Placebo）
+- [Expanding regulatory T cells to treat atopic dermatitis](lancet/2026-08/42628553.md) — 2026-08-29（Medicine · Atopic dermatitis · Tolerability）
+- [Communities and civil society as essential partners in Ebola response](lancet/2026-08/42612659.md) — 2026-08-29（Civil society · Political science · Public administration）
+- [Belzutifan plus lenvatinib versus cabozantinib in patients with previously treated advanced renal cell carcinoma (LITESPARK-011): an open-label, randomised, controlled, phase 3 trial](lancet/2026-08/42586114.md) — 2026-08-29（Cabozantinib · Lenvatinib · Medicine）
+- [Switch to once-weekly, single-tablet islatravir-lenacapavir from daily standard of care for HIV-1 (ISLEND-2): a multicentre, randomised, open-label, active-controlled, phase 3 non-inferiority trial](lancet/2026-08/42586113.md) — 2026-08-29 🆓（Medicine · Standard of care · Phase (matter)）
+- [Redefining therapy for previously treated renal cell carcinoma](lancet/2026-08/42586112.md) — 2026-08-29（Medicine · Renal cell carcinoma · Internal medicine）
+- [Once-weekly oral antiretroviral therapy for HIV](lancet/2026-08/42586111.md) — 2026-08-29（Rilpivirine · Medicine · Antiretroviral therapy）
+- [[177Lu]Lu-PSMA-617 in metastatic androgen pathway modulator-sensitive prostate cancer](lancet/2026-08/42561995.md) — 2026-08-29（Prostate cancer · Medicine · Androgen receptor）
+- [[177Lu]Lu-PSMA-617 in patients with PSMA-positive metastatic androgen pathway modulator-naive/sensitive prostate cancer (PSMAddition): a phase 3 randomised, controlled trial](lancet/2026-08/42561994.md) — 2026-08-29（Medicine · Prostate cancer · Clinical endpoint）
+- [New responses required to address rapidly changing needs: a Lancet Commission on adolescent health and wellbeing in China](lancet/2026-08/42341795.md) — 2026-08-29（Commission · China · Medicine）
+- [Creating the building blocks of life](lancet/2026-08/42660160.md) — 2026-08-27
+- [Generalised eruptive histiocytosis mimicking lymphoma relapse in a patient with previous diffuse large B-cell lymphoma](lancet/2026-08/42660159.md) — 2026-08-27（Medicine · Lymphoma · Differential diagnosis）
+- [Physiotherapist-led care for musculoskeletal conditions in the emergency department (RESHAP-ED): a randomised controlled trial with economic evaluation](lancet/2026-08/42660158.md) — 2026-08-27 🆓（Medicine · Emergency department · Randomized controlled trial）
+- [Can physiotherapist-led care relieve the emergency physician bottleneck?](lancet/2026-08/42660157.md) — 2026-08-27（Emergency physician · Emergency department · Medicine）
+- [Russian medics reported to be complicit in torture](lancet/2026-08/42660156.md) — 2026-08-27
+- [Risk of transmission of amyloid β pathology via transfused blood products](lancet/2026-08/42624157.md) — 2026-08-22（Medicine · Pathology · Transmission (telecommunications)）
+- [Liver resection after atezolizumab and bevacizumab versus maintenance therapy for locally advanced hepatocellular carcinoma (TALENTOP): a multicentre, open-label, randomised, phase 3 trial](lancet/2026-08/42624156.md) — 2026-08-22（Bevacizumab · Atezolizumab · Medicine）
+- [Robert Coles](lancet/2026-08/42624142.md) — 2026-08-22
+- ["My doctor told me to lose weight"](lancet/2026-08/42624141.md) — 2026-08-22（Specialty · Family medicine · Eating disorders）
+- [Alexandre Loupy: innovation in transplantation science](lancet/2026-08/42624140.md) — 2026-08-22（Engineering ethics · Transplantation · Political science）
+- [Beyond dystrophin: cell therapy for Duchenne muscular dystrophy](lancet/2026-08/42624139.md) — 2026-08-22（Medicine · Duchenne muscular dystrophy · Cell therapy）
+- [Beyond the incision: the MIST trial redefines contemporary coronary surgery](lancet/2026-08/42624138.md) — 2026-08-22（Medicine · Mist · Surgery）
+- [TALENTOP study: a new era for conversion surgery in advanced hepatocellular carcinoma?](lancet/2026-08/42624137.md) — 2026-08-22（Medicine · Surgery · MEDLINE）
+- [The Lancet Group's new guidance to authors on reporting disability](lancet/2026-08/42607697.md) — 2026-08-22（Medicine · Family medicine · MEDLINE）
+- [Multivessel coronary artery bypass grafting via small thoracotomy versus sternotomy (MIST): an investigator-initiated, international, open-label, randomised controlled trial](lancet/2026-08/42537680.md) — 2026-08-22（Medicine · Randomized controlled trial · Bypass grafting）
+- [Psoriasis](lancet/2026-08/42526473.md) — 2026-08-22（Psoriasis · Medicine · Disease）
+- [Deramiocel heart-derived cellular therapy in advanced Duchenne muscular dystrophy (HOPE-3): a phase 3, randomised, double-blind, placebo-controlled trial](lancet/2026-08/42526472.md) — 2026-08-22 🆓（Duchenne muscular dystrophy · Medicine · Internal medicine）
+- [WHO's operational role in emergencies: mandate and evolution](lancet/2026-08/42425119.md) — 2026-08-22（Mandate · Business · Political science）
+- [Learning from swine influenza, Ebola virus disease, and Legionnaires' disease in 1976](lancet/2026-08/41865756.md) — 2026-08-22（Ebola virus · Virology · Medicine）
+- [Ambient scribes as narrative technologies](lancet/2026-08/42612661.md) — 2026-08-18 🆓（Narrative · Cognitive reframing · Context (archaeology)）
+- [Efficacy and safety of upadacitinib in adults and adolescents for treatment of non-segmental vitiligo (Viti-Up): results of two phase 3 randomised controlled studies](lancet/2026-08/42594914.md) — 2026-08-15 🆓（Medicine · Vitiligo · Dermatology）
+- [Naseem Salahuddin](lancet/2026-08/42594901.md) — 2026-08-15（Rabies · Medicine · Road traffic）
+- [Oral JAK inhibitors for vitiligo: a new era of innovation](lancet/2026-08/42594900.md) — 2026-08-15（Medicine · MEDLINE · Janus kinase）
+- [A novel unimolecular GLP1 and amylin receptor agonist for glucose and weight control](lancet/2026-08/42532081.md) — 2026-08-15（Amylin · Chemistry · Agonist）
+- [Efficacy and safety of once-weekly subcutaneous zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial](lancet/2026-08/42532080.md) — 2026-08-15（Amylin · Pharmacology · Chemistry）
+- [Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial](lancet/2026-08/42532079.md) — 2026-08-15（Amylin · Medicine · Pharmacology）
+- [Embracing neurodiversity in medicine: insights from the history of psychiatry](lancet/2026-08/42456690.md) — 2026-08-15（Politics · Autism · Psychology）
+- [Massive bilateral perirenal infiltration in Erdheim-Chester disease](lancet/2026-08/42447881.md) — 2026-08-15（Medicine · Infiltration (HVAC) · Disease）
+- [Pakistan and Afghanistan: a call for health diplomacy and restraint](lancet/2026-08/42320505.md) — 2026-08-15（Political science · Diplomacy · Humanitarian crisis）
+- [Beyond a smoke-free generation: ending smoking within a generation](lancet/2026-08/42285118.md) — 2026-08-15（Medicine · MEDLINE · Environmental health）
+- [The Lancet Commission on the European Health Union: strengthening the union for and through health](lancet/2026-08/42068981.md) — 2026-08-15（European union · Political science · Commission）
+- [Retroperitoneal fibrosis](lancet/2026-08/41905382.md) — 2026-08-15（Medicine · Retroperitoneal fibrosis · Fibrosis）
+- [Mohamed Warsame Dualeh](lancet/2026-08/42561967.md) — 2026-08-08（Refugee · Medicine · Public health）
+- [Statelessness: a boy with neck lumps and lethargy in a Sahrawi refugee camp in Algeria](lancet/2026-08/42561966.md) — 2026-08-08（Lethargy · Refugee · Medicine）
+- [Ralinepag in pulmonary arterial hypertension: a step forward](lancet/2026-08/42561965.md) — 2026-08-08（Medicine · Epidemiology · Cardiology）
+- [Ralinepag for the treatment of pulmonary arterial hypertension (ADVANCE OUTCOMES): a randomised, double-blind, placebo-controlled phase 3 study](lancet/2026-08/42520828.md) — 2026-08-08 🆓（Medicine · Cardiology · Internal medicine）
+- [Oral step-down, optimal drug, and total duration of antibiotic treatment in African children hospitalised with severe community-acquired pneumonia (PediCAP): a factorial randomised controlled trial](lancet/2026-08/42492562.md) — 2026-08-08 🆓（Medicine · Randomized controlled trial · Pneumonia）
+- [How long must we treat? A question as old as penicillin](lancet/2026-08/42492561.md) — 2026-08-08（Penicillin · Medicine · Intensive care medicine）
+- [High-dose chemotherapy followed by autologous stem-cell transplantation versus non-myeloablative consolidation in primary CNS lymphoma (MATRix/IELSG43): a randomised phase 3 trial](lancet/2026-08/42486133.md) — 2026-08-08（Medicine · Chemotherapy · Internal medicine）
+- [Redefining consolidation in primary CNS lymphoma: autologous stem-cell transplantation as the standard](lancet/2026-08/42486132.md) — 2026-08-08（Medicine · Transplantation · Consolidation (business)）
+- [Alison Holmes: sustaining global attention on AMR](lancet/2026-08/42442373.md) — 2026-08-08
+- [Advancing the relevance of clinical trials for older patients](lancet/2026-08/42431219.md) — 2026-08-08（Medicine · Clinical trial · Relevance (law)）
+- [How middle powers can strengthen global health governance: the case of South Korea](lancet/2026-08/42330994.md) — 2026-08-08（Global health · Political science · Economic growth）
+- [Global advances in health artificial intelligence: a workforce imperative](lancet/2026-08/42263727.md) — 2026-08-08（Workforce · Business · MEDLINE）
+- [Plastics, plastic chemicals, and microplastics: multiple harms to health](lancet/2026-08/42001895.md) — 2026-08-08（Medicine · Environmental health · MEDLINE）
+- [Combination antithrombotic therapy in atrial fibrillation after coronary interventions: shorter duration, more safety?](lancet/2026-08/42456693.md) — 2026-08-01（Medicine · Internal medicine · Cardiology）
+- [1-month versus 12-month dual antithrombotic therapy after percutaneous coronary intervention in patients with atrial fibrillation (OPTIMA-AF): a multicentre, open-label, hybrid non-inferiority and superiority, randomised, controlled trial](lancet/2026-08/42456692.md) — 2026-08-01（Medicine · Antithrombotic · Percutaneous coronary intervention）
+- [Dementia prevention in Latin America and the Global South](lancet/2026-08/42442375.md) — 2026-08-01（Latin Americans · Dementia · Commission）
+- [Multidomain lifestyle intervention for the prevention of cognitive decline in at-risk older adults in Latin America (LatAm-FINGERS): a single-blind, multicentre, randomised controlled trial](lancet/2026-08/42442374.md) — 2026-08-01（Cognitive decline · Medicine · Dementia）
+- [Beyond MURANO: sequencing therapy in relapsed chronic lymphocytic leukaemia](lancet/2026-08/42425123.md) — 2026-08-01（Medicine · Chronic lymphocytic leukemia · Oncology）
+- [Temocillin versus carbapenems for bacteraemia due to third-generation cephalosporin-resistant Enterobacterales in Spain (ASTARTÉ): a multicentre, phase 3, open-label, non-inferiority, randomised clinical trial](lancet/2026-08/42425122.md) — 2026-08-01（Medicine · Clinical trial · Internal medicine）
+- [Fixed-duration pirtobrutinib plus venetoclax-rituximab versus venetoclax-rituximab for patients with previously treated chronic lymphocytic leukaemia or small lymphocytic lymphoma (BRUIN CLL-322): an open-label, multicentre, randomised, controlled, phase 3 trial](lancet/2026-08/42425121.md) — 2026-08-01 🆓（Medicine · Internal medicine · Chronic lymphocytic leukemia）
+- [Temocillin as a carbapenem-sparing option for ESBL bloodstream infection](lancet/2026-08/42425120.md) — 2026-08-01（Bloodstream infection · Medicine · Bacteremia）
+- [Systemic light chain and transthyretin amyloidosis-treatment advancements and future directions](lancet/2026-08/42419329.md) — 2026-08-01（Transthyretin · Immunoglobulin light chain · Chain (unit)）
+- [Hantavirus: the need for a rapid regional response platform in Latin America](lancet/2026-08/42314728.md) — 2026-08-01（Latin Americans · Political science · Economic growth）
+- [What can psychiatrists expect from the next DSM?](lancet/2026-08/42276086.md) — 2026-08-01（Reverence · Psychiatry · Medicine）
+- [Eugene Braunwald](lancet/2026-08/42134383.md) — 2026-08-01
+- [Hepatitis A prevention in the USA depends on routine universal childhood vaccination](lancet/2026-08/42034117.md) — 2026-08-01（Medicine · Vaccination · Hepatitis A vaccine）
+
+### 2026-07
+
+- [Bernard Roizman](lancet/2026-07/42492547.md) — 2026-07-25
+- [Wintering in Davos](lancet/2026-07/42492546.md) — 2026-07-25 🆓（Geography · Focus (optics) · Climate change）
+- [Tamzin Cuming: supporting inclusivity in surgery](lancet/2026-07/42492545.md) — 2026-07-25（Prejudice (legal term) · Workforce · Medicine）
+- [Our commitment to early-career clinicians and academics](lancet/2026-07/42447882.md) — 2026-07-25（Psychology · Medical education · Nursing）
+- [Rethinking anticoagulation intensity during extracorporeal membrane oxygenation](lancet/2026-07/42413524.md) — 2026-07-25（Medicine · Extracorporeal membrane oxygenation · Intensity (physics)）
+- [Standard-dose unfractionated heparin versus low-dose unfractionated heparin and low-molecular-weight heparin in extracorporeal life support (RATE): an open-label, randomised, non-inferiority trial](lancet/2026-07/42413523.md) — 2026-07-25（Heparin · Medicine · Extracorporeal）
+- [Inherited retinal degenerations: clinical phenotypes and emerging therapies](lancet/2026-07/42409034.md) — 2026-07-25（Phenotype · Medicine · Retinal）
+- [Dual mobility total hip replacement in fractures: stability promotes patient confidence](lancet/2026-07/42392115.md) — 2026-07-25（Total hip replacement · Medicine · Dual (grammatical number)）
+- [Dual mobility versus standard cups in total hip replacement for displaced femoral neck fractures (Duality): an international, multicentre, randomised, controlled, superiority trial](lancet/2026-07/42392114.md) — 2026-07-25 🆓（Medicine · Total hip replacement · Surgery）
+- [Convergence of metabolic risk in obesity and normal BMI: does risk disappear?](lancet/2026-07/42385751.md) — 2026-07-25（Convergence (economics) · Obesity · Medicine）
+- [Metabolic traits in obesity and normal BMI in industrialised countries: a multi-country analysis of national population-based studies](lancet/2026-07/42385750.md) — 2026-07-25 🆓（Medicine · Obesity · Environmental health）
+- [Climate, war, and the global health-care supply chain](lancet/2026-07/42276085.md) — 2026-07-25（Supply chain · Business · Industrial organization）
+- [Towards precision medicine: electroconvulsive therapy as a treatment option in a rare disease](lancet/2026-07/42229489.md) — 2026-07-25（Medicine · Rare disease · Electroconvulsive therapy）
+- [The Lancet Commission on precision health: equitable, data-driven health outcomes for all](lancet/2026-07/42184810.md) — 2026-07-25（Commission · Medicine · MEDLINE）
+- [Meningococcal B resurgence in the UK: implications for updating global vaccine strategies](lancet/2026-07/42114548.md) — 2026-07-25 🆓（Medicine · Meningococcal vaccine · Virology）
+- [Bridget Ogilvie](lancet/2026-07/42462731.md) — 2026-07-18
+- [The art of fidelity: clinical documentation and ambient AI](lancet/2026-07/42462730.md) — 2026-07-18（Documentation · MEDLINE · Medicine）
+- [Anette Ziegler: breaking through boundaries in type 1 diabetes](lancet/2026-07/42462729.md) — 2026-07-18（Type 1 diabetes · Medicine · Internal medicine）
+- [[177Lu]Lu-edotreotide versus everolimus for gastroenteropancreatic neuroendocrine tumours (COMPETE): a phase 3, multicentre, randomised, open-label, superiority trial](lancet/2026-07/42392118.md) — 2026-07-18（Everolimus · Medicine · Internal medicine）
+- [Rethinking treatment sequence in advanced gastroenteropancreatic neuroendocrine tumours](lancet/2026-07/42392116.md) — 2026-07-18（Sequence (biology) · Medicine · Neuroendocrine tumors）
+- [Safety and efficacy of mRNA vaccines: a mechanistic and public health perspective](lancet/2026-07/42379196.md) — 2026-07-18（Perspective (graphical) · Public health · Medicine）
+- [Oral ghrelin receptor agonist: a new promise for the improvement of systolic function](lancet/2026-07/42341801.md) — 2026-07-18（Medicine · Internal medicine · Ghrelin）
+- [Tirofiban and thrombectomy for acute ischaemic stroke](lancet/2026-07/42341799.md) — 2026-07-18（Medicine · Tirofiban · Ischaemic stroke）
+- [Efficacy and safety of tirofiban after successful endovascular reperfusion in acute ischaemic stroke (ATTRACTION) in China: a multicentre, double-blind, randomised controlled trial](lancet/2026-07/42341797.md) — 2026-07-18（Medicine · Tirofiban · Randomized controlled trial）
+- [Safety, pharmacokinetics, and exploratory efficacy of the oral ghrelin receptor agonist AC01 in heart failure with reduced ejection fraction (GOAL-HF1): a randomised, double-blind, placebo-controlled, phase 1b/2a study](lancet/2026-07/42341796.md) — 2026-07-18 🆓（Heart failure · Medicine · Internal medicine）
+- [Will mezigdomide find its place in the T-cell redirecting treatment landscape for relapsed multiple myeloma?](lancet/2026-07/42309119.md) — 2026-07-18（Business · MEDLINE · Environmental planning）
+- [Mezigdomide, carfilzomib, and dexamethasone versus carfilzomib and dexamethasone in patients with relapsed or refractory multiple myeloma (SUCCESSOR-2): a phase 3, open-label, randomised controlled trial](lancet/2026-07/42289183.md) — 2026-07-18 🆓（Medicine · Carfilzomib · Dexamethasone）
+- [Meeting the 2024 UN General Assembly declaration targets on antimicrobial resistance](lancet/2026-07/42155500.md) — 2026-07-18（General assembly · Declaration · Antibiotic resistance）
+- [Pan-European Commission on Climate and Health: recommendations for accelerating climate action for health](lancet/2026-07/42144017.md) — 2026-07-18（Commission · Action (physics) · Climate change）
+- [The role of community-based blood pressure screening in improving hypertension care](lancet/2026-07/42105777.md) — 2026-07-18（Medicine · Blood pressure · Intensive care medicine）
+- [Empirical treatment with valganciclovir in infants living with HIV and hospitalised with severe pneumonia in Africa: a multicentre, open-label, factorial, randomised, controlled, superiority trial](lancet/2026-07/42468541.md) — 2026-07-17 🆓（Medicine · Valganciclovir · Pediatrics）
+- [Children in all policies: lessons from a global collaboration to promote the health and wellbeing of children and future generations](lancet/2026-07/42425114.md) — 2026-07-11 🆓（Economic growth · Political science · Global health）
+- [David Rosner](lancet/2026-07/42425106.md) — 2026-07-11
+- [The architecture of hope](lancet/2026-07/42425105.md) — 2026-07-11（Architecture · Art history · Art）
+- [The US Ebola response and the future of global health leadership](lancet/2026-07/42372768.md) — 2026-07-11（Global health · Political science · Global Leadership）
+- [Daniel Mason: a tale of change](lancet/2026-07/42361824.md) — 2026-07-11（Reading (process) · Narrative · Psychoanalysis）
+- [The next step towards lower complication rates in fetal therapy for congenital diaphragmatic hernia](lancet/2026-07/42335923.md) — 2026-07-11（Medicine · Congenital diaphragmatic hernia · Surgery）
+- [Non-invasive removal of the Smart tracheal occlusion device for fetal congenital diaphragmatic hernia: a single-arm, open-label, phase 1 study](lancet/2026-07/42335922.md) — 2026-07-11（Medicine · Congenital diaphragmatic hernia · Cardiology）
+- [HPV vaccination and early declines in cervical cancer deaths](lancet/2026-07/42309118.md) — 2026-07-11（Medicine · Cervical cancer · Vaccination）
+- [Cervical cancer mortality trends following HPV vaccination in England, 2001-24: an analysis of population-based mortality data](lancet/2026-07/42309117.md) — 2026-07-11 🆓（Medicine · Cervical cancer · Vaccination）
+- [Benzylpenicillin versus flucloxacillin or cloxacillin for the treatment of penicillin-susceptible Staphylococcus aureus bacteraemia (SNAP): an international, multicentre, open-label, non-inferiority randomised controlled trial](lancet/2026-07/42309115.md) — 2026-07-11 🆓（Flucloxacillin · Cloxacillin · Medicine）
+- [Treating penicillin-susceptible Staphylococcus aureus bacteraemia: confusing the issue with facts](lancet/2026-07/42309114.md) — 2026-07-11（Medicine · Staphylococcus aureus · Anti-Infective Agents）
+- [Orforglipron compared with dapagliflozin in adults with type 2 diabetes and inadequate glycaemic control with metformin (ACHIEVE-2): a multicentre, randomised, non-inferiority, open-label, phase 3 trial](lancet/2026-07/42259339.md) — 2026-07-11（Dapagliflozin · Medicine · Metformin）
+- [Can oral GLP-1 receptor agonists ACHIEVE the same as SGLT2 inhibitors?](lancet/2026-07/42259333.md) — 2026-07-11（Pharmacology · Medicine · Receptor）
+- [Advances in ophthalmic artificial intelligence](lancet/2026-07/42202838.md) — 2026-07-11（Optometry · Population · Medicine）
+- [A case of acute necrotising encephalitis secondary to human herpesvirus 6 infection](lancet/2026-07/42119585.md) — 2026-07-11（Medicine · Virology · Encephalitis）
+- [Documenting hospice care](lancet/2026-07/42409033.md) — 2026-07-06（Conversation · Hospice care · Nursing）
+- [After the wood chipper](lancet/2026-07/42409032.md) — 2026-07-06
+- [Judith Rapoport](lancet/2026-07/42392092.md) — 2026-07-04
+- [The 2026 Wakley-Wu Lien Teh Prize Essay: why medicine, and why stay?](lancet/2026-07/42349484.md) — 2026-07-04（Lien · Theology · Philosophy）
+- [Combined bladder-kidney transplantation: first-in-human feasibility trial](lancet/2026-07/42335920.md) — 2026-07-04（Medicine · MEDLINE · Clinical trial）
+- [Kidney-bladder transplantation: redefining surgical options for patients with concurrent bladder and kidney disease](lancet/2026-07/42335919.md) — 2026-07-04（Medicine · Kidney disease · Surgery）
+- [A clearer path for resurfacing the patella during total knee replacement](lancet/2026-07/42309120.md) — 2026-07-04（Patella · Total knee replacement · Medicine）
+- [Patellar resurfacing in total knee replacement: 20-year clinical and economic results of a large multicentre, randomised controlled trial in the UK](lancet/2026-07/42309116.md) — 2026-07-04 🆓（Medicine · Randomized controlled trial · Physical therapy）
+- [Diagnosis and treatment of postpartum haemorrhage: a race against time](lancet/2026-07/42285120.md) — 2026-07-04 🆓（Medicine · Postpartum haemorrhage · Obstetrics）
+- [Postpartum haemorrhage: epidemiology, consequences, and missed opportunities](lancet/2026-07/42285119.md) — 2026-07-04（Medicine · Postpartum haemorrhage · Obstetrics）
+- [Prevention of postpartum haemorrhage: from evidence to implementation at scale](lancet/2026-07/42285117.md) — 2026-07-04 🆓（Uterotonic · Medicine · Psychological intervention）
+- [Arri Coomarasamy: preventing postpartum haemorrhage](lancet/2026-07/42285116.md) — 2026-07-04（Medicine · Postpartum haemorrhage · Obstetrics and gynaecology）
+- [How CEPI can enhance global vaccine equity and transparency](lancet/2026-07/42259338.md) — 2026-07-04（Transparency (behavior) · Equity (law) · Business）
+- [Beyond insulin escalation: REIMAGINE 3 and advanced type 2 diabetes care](lancet/2026-07/42251857.md) — 2026-07-04（Medicine · Type 2 diabetes · Insulin）
+- [Cagrilintide-semaglutide (CagriSema) as an add-on to basal insulin in adults with type 2 diabetes (REIMAGINE 3): a randomised, double-blind, placebo-controlled, multicentre, phase 3 study](lancet/2026-07/42251856.md) — 2026-07-04（Internal medicine · Type 2 diabetes · Medicine）
+- [Imagining otherwise for better health: a Lancet Commission on activism and health](lancet/2026-07/42161319.md) — 2026-07-04（Commission · Political science · Law）
+
+## NEJM（新英格兰医学杂志）（182 篇）
+
+### 2026-09
+
+- [IARC Perspective on Lung Cancer Screening](nejm/2026-09/42788692.md) — 2026-09-24
+- [Case 27-2026: A 4-Year-Old Boy with Fatigue, Imbalance, and Frequent Falls](nejm/2026-09/42777245.md) — 2026-09-24（Medicine · Poison control · Medical emergency）
+- [Congenital Amniotic Band Sequence](nejm/2026-09/42777244.md) — 2026-09-24
+- [Clinical Uses of Common Genetic Variants Associated with Common Diseases](nejm/2026-09/42777243.md) — 2026-09-24（Genetic variants · Genetics · Biology）
+- [Etuvetidigene Autotemcel for the Treatment of Wiskott-Aldrich Syndrome](nejm/2026-09/42777242.md) — 2026-09-24（Medicine · Disease · Internal medicine）
+- [Phase 1 Study of Anito-cel, a d-Domain BCMA CAR T Cell for Refractory or Recurrent Myeloma](nejm/2026-09/42777241.md) — 2026-09-24（Refractory (planetary science) · Cancer research · T cell）
+- [The End of the War on Biomedical Science?](nejm/2026-09/42765648.md) — 2026-09-24
+- [Declining Child Health in the United States - Addressing the Developmental Ecosystem](nejm/2026-09/42765646.md) — 2026-09-24（Ecosystem · Environmental health · Child health）
+- [A Cure Out of Most Patients' Reach - Sickle Cell Disease in the Gene-Therapy Era](nejm/2026-09/42765644.md) — 2026-09-24（Medicine · Disease · Cell）
+- [Cerebral Schistosomiasis](nejm/2026-09/42765638.md) — 2026-09-24
+- [Gaps and Borders](nejm/2026-09/42765636.md) — 2026-09-24
+- [The Legacy of Orexin (Hypocretin) Research in Narcolepsy and Beyond](nejm/2026-09/42714034.md) — 2026-09-24（Narcolepsy · Orexin · Medicine）
+- [Oveporexton for Narcolepsy Type 1 - Results from Two Phase 3 Trials](nejm/2026-09/42714024.md) — 2026-09-24 🆓（Narcolepsy · Placebo · Epworth Sleepiness Scale）
+- [Anticoagulation for Atrial Fibrillation with Intermediate Stroke Risk](nejm/2026-09/42663303.md) — 2026-09-24（Medicine · Atrial fibrillation · Stroke (engine)）
+- [Effect of Screening with Multicancer Early-Detection Test on Late-Stage Cancer Diagnosis](nejm/2026-09/42776074.md) — 2026-09-22（Medicine · Cancer · Internal medicine）
+- [Initial Screening for Colorectal Cancer](nejm/2026-09/42748437.md) — 2026-09-17
+- [Case 26-2026: A 62-Year-Old Woman with Memory Loss, Anhedonia, and Temporal Wasting](nejm/2026-09/42748432.md) — 2026-09-17（Medicine · Wasting · Disease）
+- [Late-Onset Pompe Disease](nejm/2026-09/42748431.md) — 2026-09-17
+- [Esophageal Cancer](nejm/2026-09/42748430.md) — 2026-09-17（Medicine · Esophagus · Esophageal cancer）
+- [Trial of a Maternal Diet Rich in Eggs and Peanuts to Reduce Infant Allergy](nejm/2026-09/42748429.md) — 2026-09-17（Medicine · Environmental health · Food science）
+- [Blinatumomab for Replacing Chemotherapy in Pediatric Acute Lymphoblastic Leukemia](nejm/2026-09/42748428.md) — 2026-09-17（Medicine · Blinatumomab · Chemotherapy）
+- [Colonoscopy Intervals and Colorectal Cancer Incidence after Adenoma Removal](nejm/2026-09/42748427.md) — 2026-09-17 🆓（Medicine · Colonoscopy · Adenoma）
+- [Honoring the Legacy of the HIV Epidemic](nejm/2026-09/42734223.md) — 2026-09-17
+- [Celiac-Artery Dissection](nejm/2026-09/42734222.md) — 2026-09-17
+- [The Epstein Files Transparency Act and the Health of Trafficked Children](nejm/2026-09/42734221.md) — 2026-09-17（Business · Transparency (behavior) · Internet privacy）
+- [Artificial Intelligence and the Future of the Clinical Workforce](nejm/2026-09/42734218.md) — 2026-09-17（Workforce · Artificial intelligence · Computer science）
+- [A New Approach for the Indian Health Service - Academic Physician Staffing](nejm/2026-09/42734215.md) — 2026-09-17（Staffing · Nursing · Service (business)）
+- [Sodium Bicarbonate for Critically Ill Adults with Metabolic Acidosis and Shock](nejm/2026-09/42283370.md) — 2026-09-17（Medicine · Sodium bicarbonate · Metabolic acidosis）
+- [Short or Long Antibiotic Regimens in Orthopedics](nejm/2026-09/42748421.md) — 2026-09-16（Medicine · Orthopedic surgery · Antibiotics）
+- [Tambotatug Pelitecan in Small-Cell Lung Cancer after Platinum-Based Therapy](nejm/2026-09/42734213.md) — 2026-09-12（Medicine · Lung cancer · Internal medicine）
+- [FDA's New Framework for Psychedelic Drugs](nejm/2026-09/42715568.md) — 2026-09-10
+- [Case 25-2026: A 65-Year-Old Man with Fever and Rash](nejm/2026-09/42715565.md) — 2026-09-10（Medicine · Dermatology · Rash）
+- [Grey Turner's Sign](nejm/2026-09/42715564.md) — 2026-09-10
+- [Treatment Decisions in Multiple Myeloma](nejm/2026-09/42715563.md) — 2026-09-10（Medicine · Multiple myeloma · Chimeric antigen receptor）
+- [Outbreak of Severe Methemoglobinemia during Maritime Migration](nejm/2026-09/42715562.md) — 2026-09-10（Outbreak · Medicine · Methemoglobinemia）
+- [Adie Tonic Pupil](nejm/2026-09/42708478.md) — 2026-09-10
+- [The Future of the USPSTF and Evidence-Based Recommendations](nejm/2026-09/42708473.md) — 2026-09-10（Medicine · Government (linguistics) · MEDLINE）
+- [AI-Based Translation of Discharge Instructions - Aligning Policy with Practice](nejm/2026-09/42708472.md) — 2026-09-10（Computer science · Translation (biology) · Process management）
+- [When Fear Became the Barrier to Care - Lessons of a Clinical Rapid Response during Operation Metro Surge](nejm/2026-09/42708471.md) — 2026-09-10（Surge · Surge Capacity · Forensic engineering）
+- [The Long Shadow of Bedlam](nejm/2026-09/42708469.md) — 2026-09-10
+- [Complete Revascularization Guided by Functional Coronary Angiography in STEMI](nejm/2026-09/42670979.md) — 2026-09-10（Medicine · Revascularization · Cardiology）
+- [Exa-cel in Children with Transfusion-Dependent β-Thalassemia or Sickle Cell Disease](nejm/2026-09/42274009.md) — 2026-09-10（Medicine · Pediatrics · Disease）
+- [Obinutuzumab or Tacrolimus in Primary Membranous Nephropathy](nejm/2026-09/42246654.md) — 2026-09-10（Obinutuzumab · Medicine · Membranous nephropathy）
+- [Reengineering Coagulation with a Bispecific Antibody](nejm/2026-09/42714038.md) — 2026-09-09（Medicine · Coagulation · Bispecific antibody）
+- [Tozorakimab to Prevent COPD Exacerbations](nejm/2026-09/42708515.md) — 2026-09-08（Medicine · Placebo · COPD）
+- [Physical Examination for Asymptomatic Adults](nejm/2026-09/42685325.md) — 2026-09-03
+- [Break a Leg](nejm/2026-09/42685321.md) — 2026-09-03
+- [Urticarial Vasculitis](nejm/2026-09/42685320.md) — 2026-09-03
+- [Acro-Osteolysis](nejm/2026-09/42685319.md) — 2026-09-03
+- [Pulmonary Nodules](nejm/2026-09/42685318.md) — 2026-09-03（Medicine · Nodule (geology) · Radiology）
+- [Daraxonrasib for Previously Treated RAS-Mutant Non-Small-Cell Lung Cancer](nejm/2026-09/42685317.md) — 2026-09-03（Medicine · Lung cancer · Cancer research）
+- [Azacitidine-Venetoclax or Induction Chemotherapy for Acute Myeloid Leukemia](nejm/2026-09/42685316.md) — 2026-09-03（Medicine · Myeloid leukemia · Induction chemotherapy）
+- [Safe Space](nejm/2026-09/42670967.md) — 2026-09-03
+- [Maximizing Legal Care under Bans on Abortion Provision - A Framework for Reclaiming Agency](nejm/2026-09/42670962.md) — 2026-09-03（Agency (philosophy) · Abortion · Business）
+- [Human-Animal Bonds as Social Determinants of Health Care Access](nejm/2026-09/42670956.md) — 2026-09-03（Health care · Business · Bond）
+- [Scrofuloderma](nejm/2026-09/42670948.md) — 2026-09-03
+- [Telehealth Access to Mifepristone - Evaluating Reproductive-Coercion Arguments](nejm/2026-09/42670947.md) — 2026-09-03（Telehealth · Medicine · Mifepristone）
+- [Phase 3 Trial of Oral Infigratinib in Children with Achondroplasia](nejm/2026-09/42370681.md) — 2026-09-03（Achondroplasia · Medicine · Pediatrics）
+- [Balanced Fluid or 0.9% Saline in Children Treated for Septic Shock](nejm/2026-09/42028918.md) — 2026-09-03 🆓（Medicine · Septic shock · Resuscitation）
+
+### 2026-08
+
+- [Catheter-Directed Thrombolysis in Intermediate-High-Risk Pulmonary Embolism](nejm/2026-08/42678032.md) — 2026-08-31 🆓（Medicine · Cardiology · Thrombolysis）
+- [Immediate Ambulatory Electrocardiographic Monitoring in Syncope](nejm/2026-08/42670977.md) — 2026-08-31 🆓（Medicine · Syncope (phonology) · Ambulatory）
+- [Timing of PCI in Patients Undergoing Transcatheter Aortic-Valve Implantation](nejm/2026-08/42670987.md) — 2026-08-30 🆓（Medicine · Conventional PCI · Percutaneous coronary intervention）
+- [Pulmonary Denervation for Heart Failure-Related Pulmonary Hypertension](nejm/2026-08/42670986.md) — 2026-08-30（Medicine · Heart failure · Denervation）
+- [Tricuspid-Valve Intervention in Heart Failure](nejm/2026-08/42670975.md) — 2026-08-30（Medicine · Heart failure · Clinical endpoint）
+- [Targeted Use of Computed Tomographic Coronary Angiography in Acute Chest Pain](nejm/2026-08/42670980.md) — 2026-08-29（Medicine · Myocardial infarction · Chest pain）
+- [Prasugrel versus Ticagrelor in Acute Coronary Syndromes](nejm/2026-08/42670968.md) — 2026-08-29（Medicine · Ticagrelor · Internal medicine）
+- [Milvexian with Antiplatelet Therapy after Acute Coronary Syndrome Event](nejm/2026-08/42670965.md) — 2026-08-29（Medicine · Acute coronary syndrome · Internal medicine）
+- [Clopidogrel or Dual Antiplatelet Therapy in High-Ischemic-Risk Patients](nejm/2026-08/42670964.md) — 2026-08-29（Medicine · Clopidogrel · Aspirin）
+- [Atorvastatin, Cardiovascular Events, and Disability-free Survival in Older Adults](nejm/2026-08/42670961.md) — 2026-08-29（Medicine · Atorvastatin · Myocardial infarction）
+- [Aspirin Omission at the Time of Primary Percutaneous Coronary Intervention in STEMI](nejm/2026-08/42670955.md) — 2026-08-29（Medicine · Percutaneous coronary intervention · Myocardial infarction）
+- [Prevalence of Silent Atherosclerosis across Adult Life](nejm/2026-08/42670946.md) — 2026-08-29（Medicine · Vascular disease · Cohort）
+- [Response-Tailored or Standard-Duration Antibiotic Treatment for Infective Endocarditis](nejm/2026-08/42663314.md) — 2026-08-28（Medicine · Infective endocarditis · Endocarditis）
+- [Aficamten for Symptomatic Nonobstructive Hypertrophic Cardiomyopathy](nejm/2026-08/42663312.md) — 2026-08-28（Kilogram · Medicine · Placebo）
+- [Eplontersen for Transthyretin Amyloid Cardiomyopathy](nejm/2026-08/42663301.md) — 2026-08-28 🆓（Medicine · Transthyretin · Placebo）
+- [Case 24-2026: A 74-Year-Old Man with Dyspnea, Proximal Muscle Weakness, and Hypoxemia](nejm/2026-08/42617119.md) — 2026-08-20（Medicine · Hypoxemia · Internal medicine）
+- [Jaccoud's Arthropathy](nejm/2026-08/42617118.md) — 2026-08-20
+- [Severe Plasmodium falciparum Malaria](nejm/2026-08/42617117.md) — 2026-08-20
+- [Placement of a Catheter for Acute Peritoneal Dialysis](nejm/2026-08/42617116.md) — 2026-08-20（Medicine · Surgery · Peritoneal dialysis）
+- [Myeloproliferative Neoplasms](nejm/2026-08/42617115.md) — 2026-08-20（Medicine · Myelofibrosis · Ruxolitinib）
+- [Drug-Induced Subacute Cutaneous Lupus Erythematosus](nejm/2026-08/42612162.md) — 2026-08-20（Medicine · Dermatology · Lupus erythematosus）
+- [The Broader Dangers of Abandoning SGM Health Research](nejm/2026-08/42612160.md) — 2026-08-20（Political science · Public relations · Government (linguistics)）
+- [Marijuana Rescheduling - A Game Changer for Research?](nejm/2026-08/42612158.md) — 2026-08-20（Computer science · Business · Computer security）
+- [Farewell to All This](nejm/2026-08/42612155.md) — 2026-08-20
+- [Crew Resource Management - Navigating AI's Automation Paradox](nejm/2026-08/42485645.md) — 2026-08-20（Automation · Engineering · Computer science）
+- [Carbocisteine or Hypertonic Saline for Acute Respiratory Failure](nejm/2026-08/42267821.md) — 2026-08-20 🆓（Medicine · Hypertonic saline · Mechanical ventilation）
+- [Survodutide Once Weekly for the Treatment of Adults with Obesity](nejm/2026-08/42253238.md) — 2026-08-20（Medicine · Obesity · Disease）
+- [First-Line Sunvozertinib in NSCLC with EGFR Exon 20 Insertion Mutations](nejm/2026-08/42212913.md) — 2026-08-20（Cancer research · Mutation · Medicine）
+- [Azithromycin for Preschoolers with Wheezing in the Emergency Department](nejm/2026-08/42149992.md) — 2026-08-20 🆓（Medicine · Emergency department · Azithromycin）
+- [Gene Editing, Peroxisomal Disorders, and Treatments for Rare Disease](nejm/2026-08/42585652.md) — 2026-08-13（Gene · Peroxisome · Rare disease）
+- [Case 23-2026: A 28-Year-Old Woman with Nausea, Dizziness, and Metabolic Acidosis](nejm/2026-08/42585649.md) — 2026-08-13（Medicine · Metabolic acidosis · Internal medicine）
+- [Disseminated Fusariosis](nejm/2026-08/42585648.md) — 2026-08-13
+- [Evidence-Based Tobacco-Cessation Strategies for Low- and Middle-Income Countries](nejm/2026-08/42585647.md) — 2026-08-13（Business · Government (linguistics) · Economics）
+- [Warthin Tumors](nejm/2026-08/42573399.md) — 2026-08-13
+- [Resistance, Strategic Compromise, or Complicity? Physicians' Choices under Ethical Pressure](nejm/2026-08/42573391.md) — 2026-08-13（Business · Public relations · Engineering ethics）
+- [Rethinking the Role of Pay for Performance in Federal Health Care Quality Programs](nejm/2026-08/42573389.md) — 2026-08-13（Business · Quality (philosophy) · Health care）
+- [Last Man Running](nejm/2026-08/42573353.md) — 2026-08-13
+- [Long-Acting Treatment and Advanced HIV Disease - Addressing a Public Health Priority](nejm/2026-08/42341320.md) — 2026-08-13（Medicine · Public health · Disease）
+- [Talquetamab-Daratumumab in Relapsed or Refractory Myeloma](nejm/2026-08/42294841.md) — 2026-08-13（Medicine · Internal medicine · Oncology）
+- [Phase 3 Trial of Secukinumab in Polymyalgia Rheumatica](nejm/2026-08/42234540.md) — 2026-08-13（Medicine · Polymyalgia rheumatica · Secukinumab）
+- [Selpercatinib in Early-Stage RET Fusion-Positive Non-Small-Cell Lung Cancer](nejm/2026-08/42223087.md) — 2026-08-13（Medicine · Lung cancer · Internal medicine）
+- [In Vivo Base Editing of PCSK9 with VERVE-102 for Hypercholesterolemia](nejm/2026-08/42187087.md) — 2026-08-13 🆓（In vivo · Chemistry · Base (topology)）
+- [Fast Track in Internal Medicine Residency](nejm/2026-08/42555939.md) — 2026-08-06
+- [Consumed with Inflammation](nejm/2026-08/42555936.md) — 2026-08-06
+- [Type 1 Autoimmune Pancreatitis](nejm/2026-08/42555935.md) — 2026-08-06
+- [Syncope](nejm/2026-08/42555934.md) — 2026-08-06（Medicine · Syncope (phonology) · Cardiology）
+- [Doctor's Dirty Little Secret - The Cost of Silence](nejm/2026-08/42545006.md) — 2026-08-06
+- [Obstructive Hypertrophic Cardiomyopathy](nejm/2026-08/42544997.md) — 2026-08-06
+- [The Inequality-Pandemic Cycle - Rethinking Preparedness](nejm/2026-08/42526045.md) — 2026-08-06（Public relations · Political science · Preparedness）
+- [Ebola at 50 - Lessons for Outbreak Response and Preparedness](nejm/2026-08/42384885.md) — 2026-08-06（Outbreak · Preparedness · Medical emergency）
+- [The Social Contract of Bundibugyo Ebola Isolation](nejm/2026-08/42308499.md) — 2026-08-06 🆓（Isolation (microbiology) · Business · Social contract）
+- [Conservative Oxygen for Unresponsive Patients after Cardiac Arrest](nejm/2026-08/42267831.md) — 2026-08-06（Medicine · Anesthesia · Oxygen）
+- [Finerenone in Persons with Chronic Kidney Disease without Diabetes](nejm/2026-08/42246672.md) — 2026-08-06（Medicine · Kidney disease · Diabetes mellitus）
+- [Perioperative Apalutamide in High-Risk Localized Prostate Cancer](nejm/2026-08/42223077.md) — 2026-08-06（Medicine · Prostate cancer · Perioperative）
+- [Sirolimus-Coated Balloon Angioplasty for Infrainguinal Artery Disease](nejm/2026-08/41911022.md) — 2026-08-06（Medicine · Angioplasty · Balloon）
+
+### 2026-07
+
+- [Case 22-2026: A 37-Year-Old Woman with Persistent Nasal Ulceration](nejm/2026-07/42526028.md) — 2026-07-30（Medicine · Surgery · Dermatology）
+- [Milwaukee Shoulder Syndrome](nejm/2026-07/42526027.md) — 2026-07-30
+- [Phase 2b Trial of a NaV1.8 Inhibitor for Acute Pain](nejm/2026-07/42526026.md) — 2026-07-30（Medicine · Acute pain · Anesthesia）
+- [Braking Bad News](nejm/2026-07/42504838.md) — 2026-07-30
+- [The Paradox of Medical Aid in Dying](nejm/2026-07/42504828.md) — 2026-07-30
+- [Medical Standards by Federal Fiat](nejm/2026-07/42504821.md) — 2026-07-30
+- [Pulsatile Liver in Severe Tricuspid Regurgitation](nejm/2026-07/42504820.md) — 2026-07-30
+- [Platelet-Activating Anti-Platelet Factor 4 Disorders](nejm/2026-07/42441431.md) — 2026-07-30（Medicine · Internal medicine · Disease）
+- [Products That Pose Health Risks - Can Litigation Protect Us When Government Fails?](nejm/2026-07/42308498.md) — 2026-07-30（Business · Government (linguistics) · Legislation）
+- [PARP and Androgen-Signaling Inhibition plus ADT in Metastatic Prostate Cancer](nejm/2026-07/42223064.md) — 2026-07-30（Prostate cancer · Medicine · Poly ADP ribose polymerase）
+- [Teclistamab in Multiple Myeloma with One to Three Previous Lines of Therapy](nejm/2026-07/42212933.md) — 2026-07-30（Medicine · Multiple myeloma · Internal medicine）
+- [Iptacopan in IgA Nephropathy - Final 24-Month Data](nejm/2026-07/41910396.md) — 2026-07-30（Medicine · Nephropathy · Renal function）
+- [Phase 3 Trial of Weekly Oral Islatravir-Lenacapavir for HIV-1 Treatment](nejm/2026-07/42525925.md) — 2026-07-29（Medicine · Phase (matter) · Internal medicine）
+- [Case 21-2026: A 28-Year-Old Man with Headache and Vision Loss in the Right Eye](nejm/2026-07/42485630.md) — 2026-07-23（Medicine · Optometry · Physical medicine and rehabilitation）
+- [Koebner Phenomenon from Wet Cupping](nejm/2026-07/42485629.md) — 2026-07-23
+- [Antiretroviral Therapy](nejm/2026-07/42485628.md) — 2026-07-23（Antiretroviral therapy · Medicine · Human immunodeficiency virus (HIV)）
+- [Enfortumab Vedotin and Pembrolizumab in Cisplatin-Eligible Bladder Cancer](nejm/2026-07/42485627.md) — 2026-07-23（Pembrolizumab · Medicine · Bladder cancer）
+- [National Elimination of Hepatitis C - The Case for Starting in Prisons and Jails](nejm/2026-07/42474118.md) — 2026-07-23（Medicine · Hepatitis C · Prison）
+- [When Celebrities Prescribe - Regulating Drug Promotion on the Internet](nejm/2026-07/42474117.md) — 2026-07-23（The Internet · Business · Advertising）
+- [Love and Death](nejm/2026-07/42474111.md) — 2026-07-23
+- [Neurocysticercosis](nejm/2026-07/42474108.md) — 2026-07-23
+- [The Best of Both Worlds - Using Clinical Trial and Observational Data to Evaluate Vaccine Protection](nejm/2026-07/42474096.md) — 2026-07-23（Observational study · Medicine · Clinical trial）
+- [Meningococcal B Vaccine to Prevent Neisseria gonorrhoeae Infection](nejm/2026-07/42418797.md) — 2026-07-23（Medicine · Virology · Meningococcal disease）
+- [Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer](nejm/2026-07/42223072.md) — 2026-07-23（Medicine · Chemotherapy · Pancreatic cancer）
+- [Mavacamten in Adolescents with Obstructive Hypertrophic Cardiomyopathy](nejm/2026-07/41910394.md) — 2026-07-23（Medicine · Internal medicine · Cardiology）
+- [Case 20-2026: A 38-Year-Old Man with Abdominal Pain](nejm/2026-07/42456140.md) — 2026-07-16（Medicine · Surgery · Abdominal pain）
+- [Lead Lines in Severe Lead Poisoning](nejm/2026-07/42456139.md) — 2026-07-16
+- [Fibromyalgia](nejm/2026-07/42456138.md) — 2026-07-16（Fibromyalgia · Medicine · Context (archaeology)）
+- [Health Care-Associated Infections in U.S. Hospitals, 2023 versus 2015](nejm/2026-07/42456137.md) — 2026-07-16 🆓（Medicine · Environmental health · Disease）
+- [Extended Dual Antiplatelet Therapy for Multivessel Coronary Artery Disease](nejm/2026-07/42456136.md) — 2026-07-16（Medicine · Cardiology · Internal medicine）
+- [Continuous or Fixed-Duration Maintenance Therapy in Multiple Myeloma](nejm/2026-07/42456135.md) — 2026-07-16 🆓（Medicine · Multiple myeloma · Maintenance therapy）
+- [Pharmacotherapeutic Decisions in Autism](nejm/2026-07/42437505.md) — 2026-07-16
+- [Descending Thoracic Aortic Aneurysm](nejm/2026-07/42437504.md) — 2026-07-16
+- [The Symptom Tracker](nejm/2026-07/42437503.md) — 2026-07-16
+- [The Exam Room as Sanctuary - Caring for Undocumented Patients](nejm/2026-07/42437502.md) — 2026-07-16（Nursing · Medicine · Medical education）
+- [Bundibugyo Virus Disease in 2026 - Clinical and Public Health Responses](nejm/2026-07/42341299.md) — 2026-07-16（Medicine · Disease · Public health）
+- [Supporting Access to Reliable Health Information with Public-Private Collaboration](nejm/2026-07/42269148.md) — 2026-07-16（Business · Computer science · Knowledge management）
+- [Efficacy and Safety of Obinutuzumab in Active Systemic Lupus Erythematosus](nejm/2026-07/41789864.md) — 2026-07-16（Obinutuzumab · Medicine · Internal medicine）
+- [Andes Virus - A Clinical Review](nejm/2026-07/42456129.md) — 2026-07-15（Virology · Medicine · Epidemiology）
+- [Rivaroxaban Then Aspirin vs. Aspirin Alone after Total Hip or Knee Arthroplasty](nejm/2026-07/42437501.md) — 2026-07-12（Medicine · Rivaroxaban · Aspirin）
+- [Contextualizing the Dead Donor Rule in an Era of Voluntary Euthanasia](nejm/2026-07/42418782.md) — 2026-07-09（Law · Political science · Criminology）
+- [Case 19-2026: A 68-Year-Old Man with Fatigue, Fever, and Hypoxemia](nejm/2026-07/42418779.md) — 2026-07-09（Medicine · Hypoxemia · Cardiology）
+- [A Rash and Red Urine](nejm/2026-07/42418778.md) — 2026-07-09
+- [Condyloma Acuminata of the Urethra](nejm/2026-07/42418777.md) — 2026-07-09
+- [Nutrition Therapy in Critically Ill Adults](nejm/2026-07/42418776.md) — 2026-07-09（Medicine · Intensive care medicine · Parenteral nutrition）
+- [Ensartinib in Resected ALK-Positive Non-Small-Cell Lung Cancer](nejm/2026-07/42418775.md) — 2026-07-09（Medicine · Lung cancer · Internal medicine）
+- [Setmelanotide for the Treatment of Acquired Hypothalamic Obesity](nejm/2026-07/42418774.md) — 2026-07-09 🆓（Medicine · Internal medicine · Obesity）
+- [Sparganosis](nejm/2026-07/42405579.md) — 2026-07-09
+- [Caring for an Aging America - The Looming Crisis of the Long-Term-Care Workforce](nejm/2026-07/42405577.md) — 2026-07-09（Looming · Workforce · Political science）
+- [For Those Left Behind](nejm/2026-07/42405576.md) — 2026-07-09
+- [Colliding Forces - The Aging of the Baby Boom Generation and Contracting Nursing-Home Supply](nejm/2026-07/42405575.md) — 2026-07-09 🆓（Economics · Baby boom · Boom）
+- [Mandated State-Level Surveillance of Assisted Reproductive Technology - An Emerging Threat in the United States](nejm/2026-07/42405567.md) — 2026-07-09（Business · Economic growth · Environmental health）
+- [Phase 3 Trials of Inhaled Treprostinil for Idiopathic Pulmonary Fibrosis](nejm/2026-07/42149993.md) — 2026-07-09（Medicine · Idiopathic pulmonary fibrosis · Treprostinil）
+- [Inhaled Treprostinil for Idiopathic Pulmonary Fibrosis](nejm/2026-07/41812190.md) — 2026-07-09（Treprostinil · Medicine · Idiopathic pulmonary fibrosis）
+- [Correcting False Narratives - Indispensable Latino Contributions to U.S. Population Health](nejm/2026-07/42384876.md) — 2026-07-02（Narrative · Population · Psychology）
+- [Operative versus Nonoperative Management for Appendicitis](nejm/2026-07/42384875.md) — 2026-07-02（Medicine · General surgery · Surgery）
+- [The Daily Grind](nejm/2026-07/42384873.md) — 2026-07-02 🆓（Medicine · Grind · Engineering）
+- [Trampoline Fracture](nejm/2026-07/42384872.md) — 2026-07-02
+- [Advances in Multiple Sclerosis](nejm/2026-07/42384871.md) — 2026-07-02（Multiple sclerosis · Medicine · Disease）
+- [Rituximab versus Ocrelizumab in Newly Diagnosed Relapsing Multiple Sclerosis](nejm/2026-07/42384870.md) — 2026-07-02（Medicine · Ocrelizumab · Multiple sclerosis）
+- [Adjuvant Pembrolizumab plus Belzutifan for Renal-Cell Carcinoma](nejm/2026-07/42384869.md) — 2026-07-02（Medicine · Pembrolizumab · Carcinoma）
+- [Opportunities to Combat the Chronic Pain-Opioid Use Disorder Syndemic](nejm/2026-07/42370712.md) — 2026-07-02（Syndemic · Medicine · Environmental health）
+- [The Invisible Load of Cognitive Symptoms](nejm/2026-07/42370699.md) — 2026-07-02
+- [Cat Scratch Disease](nejm/2026-07/42370680.md) — 2026-07-02
+- [Declarations of Independence - Physicians and the U.S. Body Politic, 1776-2026](nejm/2026-07/42370669.md) — 2026-07-02（Independence (probability theory) · Psychology · Political science）
+- [Angiography-Derived Fractional Flow Reserve to Guide PCI](nejm/2026-07/41910384.md) — 2026-07-02（Fractional flow reserve · Conventional PCI · Flow (mathematics)）
+- [Angiography-Based Physiology to Guide Coronary Revascularization](nejm/2026-07/41910382.md) — 2026-07-02（Medicine · Cardiology · Internal medicine）
+
+### 2026-06
+
+- [Retraction: Jayne DRW et al. Avacopan for the Treatment of ANCA-Associated Vasculitis, N Engl J Med 2021;384:599-609](nejm/2026-06/42377355.md) — 2026-06-29（Medicine · MEDLINE · Gynecology）
+
+## JAMA（美国医学会杂志）（591 篇）
+
+### 2026-09
+
+- [New Guidance for Common Hair Loss Disorder](jama/2026-09/42789290.md) — 2026-09-25
+- [Remove the Fallopian Tubes If the Opportunity Arises, ACOG Says in New Ovarian Cancer Prevention Guidance](jama/2026-09/42789285.md) — 2026-09-25（Medicine · Salpingectomy · Ovarian cancer）
+- [GLP-1 Drugs Not the Most Effective Treatment for Obstructive Sleep Apnea](jama/2026-09/42789277.md) — 2026-09-25（Medicine · Obstructive sleep apnea · Internal medicine）
+- [Lipoprotein(a)-Lowering Agent Fails to Reduce Cardiovascular Events](jama/2026-09/42789273.md) — 2026-09-25（Medicine · Intensive care medicine · MEDLINE）
+- [NFL Player Death Records May Underreport Neurodegenerative Disease](jama/2026-09/42789272.md) — 2026-09-25（Medicine · Disease · Medical record）
+- [Pilots and Flight Attendants Have the Highest Radiation-Related Cancer Mortality, Study Finds](jama/2026-09/42789260.md) — 2026-09-25（Medicine · Cancer · Family medicine）
+- [Both High and Low Testosterone Tied to Higher Atrial Fibrillation Risk](jama/2026-09/42789259.md) — 2026-09-25（Medicine · Internal medicine · Atrial fibrillation）
+- [Research in Small Packages-Research Letters at JAMA](jama/2026-09/42784446.md) — 2026-09-24（Medicine · MEDLINE · Family medicine）
+- [On Becoming a Gold Standard Scientist-The Importance of Pilot Clinical Trials](jama/2026-09/42784440.md) — 2026-09-24（Medicine · Gold standard (test) · Clinical trial）
+- [Errors in Results, Figure 3, and Supplement 1](jama/2026-09/42783365.md) — 2026-09-24 🆓
+- [Cost-Effectiveness of Fecal Immunochemical Testing](jama/2026-09/42783351.md) — 2026-09-24
+- [The Physician of The Future](jama/2026-09/42783350.md) — 2026-09-24
+- [Polypharmacy and Drug-Drug Interactions Among Older Adults](jama/2026-09/42783349.md) — 2026-09-24 🆓（Medicine · Polypharmacy · Medical prescription）
+- [Cost-Effectiveness of Fecal Immunochemical Testing-Reply](jama/2026-09/42783348.md) — 2026-09-24（Medicine · Feces · Gastroenterology）
+- [Months, Not Years](jama/2026-09/42783197.md) — 2026-09-24（Medicine · Narrative · Medical education）
+- [What Is Hodgkin Lymphoma?](jama/2026-09/42782919.md) — 2026-09-24（Medicine · Hodgkin lymphoma · Lymphoma）
+- [Beyond the AI Alarm: How ARPA-H Is Rethinking Innovation in Health Care](jama/2026-09/42782726.md) — 2026-09-24（Medicine · ALARM · Agency (philosophy)）
+- [Rural Emergency Hospitals: Promise, Peril, and a Path Forward](jama/2026-09/42776549.md) — 2026-09-23（Medicine · Medical emergency · Perspective (graphical)）
+- [Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion: The ATTENTION LATE Randomized Clinical Trial](jama/2026-09/42776543.md) — 2026-09-23 🆓（Medicine · Tenecteplase · Modified Rankin Scale）
+- [Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion: Research Summary](jama/2026-09/42776540.md) — 2026-09-23（Medicine · Tenecteplase · Cardiology）
+- [Prediction Utility of Urinary Albumin-Creatinine vs Protein-Creatinine Ratios in Chronic Kidney Disease](jama/2026-09/42776523.md) — 2026-09-23 🆓（Medicine · Kidney disease · Urinary system）
+- [Long COVID: The Problem Society Wants to Forget: A Healthy Dialogue With E. Wesley Ely](jama/2026-09/42776521.md) — 2026-09-23（Medicine · MEDLINE · Gerontology）
+- [Lifestyle Modification and Incretin Therapy for Individuals With Obesity-Reply](jama/2026-09/42776520.md) — 2026-09-23（Medicine · Lifestyle modification · Incretin）
+- [Medicolegal Evaluations for Asylum Seekers](jama/2026-09/42776516.md) — 2026-09-23（Medicine · Refugee · Asylum seeker）
+- [Lifestyle Modification and Incretin Therapy for Individuals With Obesity](jama/2026-09/42776514.md) — 2026-09-23（Medicine · Lifestyle modification · Obesity）
+- [Measles in the Americas 3 Times Higher Than in All of 2025, PAHO Warns](jama/2026-09/42664020.md) — 2026-09-22（Medicine · Measles · Environmental health）
+- [ICE Activity Tied to Disruptions in Pediatric Care](jama/2026-09/42664017.md) — 2026-09-22
+- [Physical Fitness Assessments Could Help Guide Older Adult Care](jama/2026-09/42663993.md) — 2026-09-22（Medicine · Gerontology · Physical fitness）
+- [How Many Patients With Hypertension Newly Qualify for Medication Under New Guideline?](jama/2026-09/42663985.md) — 2026-09-22（Medicine · Blood pressure · Intensive care medicine）
+- [Cardiovascular Care Should Incorporate Cognition and Frailty, Heart Group Says in New Statement](jama/2026-09/42663983.md) — 2026-09-22（Medicine · Statement (logic) · Cognition）
+- [ADVOCATing for Patients With Heart Failure](jama/2026-09/42658547.md) — 2026-09-22（Medicine · Heart failure · Intensive care medicine）
+- [Nomenclature](jama/2026-09/42658537.md) — 2026-09-22（Medicine · Narrative · Family medicine）
+- [Foreign Letters: London](jama/2026-09/42658509.md) — 2026-09-22
+- [Revised Supplement 2](jama/2026-09/42646846.md) — 2026-09-22 🆓
+- [Affiliations Updated](jama/2026-09/42640777.md) — 2026-09-22 🆓
+- [Health Care Ownership and Patient Care-A National Institute on Aging Workshop](jama/2026-09/42636013.md) — 2026-09-22（Medicine · Health care · Affect (linguistics)）
+- [Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke-Reply](jama/2026-09/42623085.md) — 2026-09-22（Medicine · Cardiology · Internal medicine）
+- [Clarifications in JAMA Clinical Guidelines Synopsis](jama/2026-09/42623050.md) — 2026-09-22 🆓（Medicine · Family medicine · MEDLINE）
+- [Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke](jama/2026-09/42623045.md) — 2026-09-22（Medicine · Cardiology · Internal medicine）
+- [Resurgence of Malaria in Ethiopia](jama/2026-09/42623030.md) — 2026-09-22 🆓（Medicine · Malaria · Environmental health）
+- [Review of Prepregnancy Care and Counseling](jama/2026-09/42616552.md) — 2026-09-22
+- [Review of Prepregnancy Care and Counseling-Reply](jama/2026-09/42616527.md) — 2026-09-22
+- [Review of Prepregnancy Care and Counseling](jama/2026-09/42616511.md) — 2026-09-22
+- [HIV Status Exclusion in Sickle Cell Gene Therapy](jama/2026-09/42616490.md) — 2026-09-22（Medicine · Genetic enhancement · Cell）
+- [Suicide Mortality After Launch of the 988 Lifeline](jama/2026-09/42606880.md) — 2026-09-22（Medicine · Medical emergency · Suicide prevention）
+- [Suicide Mortality After Launch of the 988 Lifeline-Reply](jama/2026-09/42606879.md) — 2026-09-22（Medicine · Suicide prevention · Poison control）
+- [Suicide Mortality After Launch of the 988 Lifeline](jama/2026-09/42606846.md) — 2026-09-22（Medicine · Medical emergency · Suicide prevention）
+- [Optimizing the Therapeutic Ratio in Prostate Radiation Therapy](jama/2026-09/42593810.md) — 2026-09-22（Medicine · Radiation therapy · Oncology）
+- [Stereotactic Body Radiotherapy vs Moderately Hypofractionated IMRT for Localized Intermediate-Risk Prostate Cancer: A Randomized Clinical Trial](jama/2026-09/42593775.md) — 2026-09-22 🆓（Medicine · Prostate cancer · Radiation therapy）
+- [Stereotactic Body Radiotherapy vs Moderately Hypofractionated IMRT for Localized Intermediate-Risk Prostate Cancer: Research Summary](jama/2026-09/42593773.md) — 2026-09-22（Medicine · Prostate cancer · Radiology）
+- [Total Intravenous vs Volatile Inhalational Anesthesia for Major Noncardiac Surgery: Research Summary](jama/2026-09/42584907.md) — 2026-09-22（Medicine · Anesthesia · Volatile anesthetic）
+- [Total Intravenous vs Volatile Inhalational Anesthesia for Major Noncardiac Surgery: A Randomized Clinical Trial](jama/2026-09/42584898.md) — 2026-09-22 🆓（Medicine · Randomized controlled trial · Anesthesia）
+- [What Are Nicotine Pouches?](jama/2026-09/42530946.md) — 2026-09-22（Medicine · Nicotine · Accidental）
+- [Nicotine Pouches](jama/2026-09/42530908.md) — 2026-09-22（Medicine · Nicotine · Adverse effect）
+- [Multidomain Intervention for Growth in Term Small-for-Gestational-Age Infants: Research Summary](jama/2026-09/42507466.md) — 2026-09-22（Medicine · Term (time) · Intervention (counseling)）
+- [Nurturing Care for Term Small-for-Gestational-Age Infants](jama/2026-09/42507426.md) — 2026-09-22（Medicine · Term (time) · Intensive care medicine）
+- [Multidomain Intervention for Growth in Term Small-for-Gestational-Age Infants: A Randomized Clinical Trial](jama/2026-09/42507387.md) — 2026-09-22 🆓（Medicine · Bayley Scales of Infant Development · Toddler）
+- [Ulcerative Colitis Management in Adults](jama/2026-09/42485028.md) — 2026-09-22（Medicine · Ulcerative colitis · Guideline）
+- [Ceperognastat in Alzheimer Disease: Lessons From a Negative Clinical Trial](jama/2026-09/42441398.md) — 2026-09-22
+- [Ceperognastat in Early Symptomatic Alzheimer Disease: A Randomized Clinical Trial](jama/2026-09/42441396.md) — 2026-09-22 🆓（Medicine · Placebo · Internal medicine）
+- [Ceperognastat in Early Symptomatic Alzheimer Disease: Research Summary](jama/2026-09/42441387.md) — 2026-09-22（Medicine · Alzheimer's disease · Disease）
+- [Medicare Advantage Enrollment and Access to Kidney Transplant After the 21st Century Cures Act](jama/2026-09/42766312.md) — 2026-09-21 🆓（Medicine · Medicare Advantage · Cohort）
+- [Protecting Patients From Politicization of Federal Science](jama/2026-09/42766308.md) — 2026-09-21（Medicine · Perspective (graphical) · Public administration）
+- [Hearing Aids for Mild to Moderate Hearing Loss in Adults-Reply](jama/2026-09/42766307.md) — 2026-09-21（Medicine · Audiology · Hearing loss）
+- [Vaccines for Cancer: A Translational Science Review](jama/2026-09/42766303.md) — 2026-09-21（Medicine · Immune system · Adjuvant）
+- [Hearing Aids for Mild to Moderate Hearing Loss in Adults](jama/2026-09/42766286.md) — 2026-09-21（Medicine · Audiology · Hearing loss）
+- [Updated Stroke Guideline Emphasizes Early, Holistic Intervention](jama/2026-09/42758512.md) — 2026-09-18（Medicine · Stroke (engine) · Guideline）
+- [Caffeine and Cardiovascular Health: What the Science Says](jama/2026-09/42758503.md) — 2026-09-18（Medicine · Caffeine · Statement (logic)）
+- [How Do Cardiovascular Risks Vary Across Nicotine Products?](jama/2026-09/42758501.md) — 2026-09-18（Medicine · Nicotine · MEDLINE）
+- [As More Adults Seek ADHD Care, Primary Care Clinicians Are Tasked With Getting the Diagnosis Right](jama/2026-09/42758500.md) — 2026-09-18（Medicine · Primary care · Psychiatry）
+- [FDA Approves 2 New Alzheimer Disease Blood Tests](jama/2026-09/42758499.md) — 2026-09-18
+- [Mpox Virus Transitions Toward Endemicity](jama/2026-09/42758497.md) — 2026-09-18
+- [FDA Approves New Treatment for Advanced Pancreatic Cancer](jama/2026-09/42758486.md) — 2026-09-18（Medicine · Pancreatic cancer · Internal medicine）
+- [Earlier Menopause Linked to Faster Cognitive Decline](jama/2026-09/42758484.md) — 2026-09-18（Medicine · Cognitive decline · Menopause）
+- [The Dangers of Perverted Appetite](jama/2026-09/42752729.md) — 2026-09-17
+- [Intrauterine Mepivacaine Instillation vs Placebo for Pain During IUD Placement: A Randomized Clinical Trial](jama/2026-09/42752558.md) — 2026-09-17 🆓（Medicine · Intrauterine device · Placebo）
+- [Intrauterine Mepivacaine Instillation vs Placebo for Pain During IUD Placement: Research Summary](jama/2026-09/42752557.md) — 2026-09-17（Medicine · Mepivacaine · Placebo）
+- [Management Consultant Use by Nonprofit Hospitals](jama/2026-09/42752556.md) — 2026-09-17
+- [Management Consultant Use by Nonprofit Hospitals-Reply](jama/2026-09/42752550.md) — 2026-09-17（Medicine · Nursing · MEDLINE）
+- [Characteristics of Patients Choosing Intravenous Moderate Sedation for IUD Placement](jama/2026-09/42752538.md) — 2026-09-17 🆓（Medicine · Sedation · Intravenous sedation）
+- [Floating](jama/2026-09/42752533.md) — 2026-09-17（Medicine · Narrative · Narrative medicine）
+- [The Maternal Mental Health Crisis-A Dangerous Blind Spot in US Medicine](jama/2026-09/42747947.md) — 2026-09-16（Medicine · Mental health · Blind spot）
+- [Screening for Early-Stage Type 1 Diabetes in Children-Reply](jama/2026-09/42747850.md) — 2026-09-16（Medicine · Type 1 diabetes · Internal medicine）
+- [Asymptomatic Carotid Revascularization May Be Justified, But Not to Improve Cognition](jama/2026-09/42747847.md) — 2026-09-16（Medicine · Asymptomatic · Cognition）
+- [Revascularization of Asymptomatic Carotid Artery Stenosis: Cognitive Results of the CREST-2 Randomized Trials](jama/2026-09/42747844.md) — 2026-09-16 🆓（Medicine · Asymptomatic · Carotid endarterectomy）
+- [Revascularization in Asymptomatic Carotid Artery Stenosis With Hemodynamic Impairment and Cognitive Outcomes: The CREST-H Substudy of the CREST-2 Randomized Clinical Trial](jama/2026-09/42747834.md) — 2026-09-16 🆓（Medicine · Asymptomatic · Cardiology）
+- [Screening for Early-Stage Type 1 Diabetes in Children](jama/2026-09/42747829.md) — 2026-09-16（Medicine · Type 1 diabetes · Pediatrics）
+- [Diagnosis and Treatment of Patients With Primary Aldosteronism](jama/2026-09/42747828.md) — 2026-09-16（Medicine · Primary aldosteronism · Primary (astronomy)）
+- [Revascularization in Asymptomatic Carotid Artery Stenosis With Hemodynamic Impairment and Cognitive Outcomes: Research Summary](jama/2026-09/42747821.md) — 2026-09-16（Medicine · Cardiology · Internal medicine）
+- [Gestational Hypertension Has Increased, Affecting 1 in 10 Pregnancies](jama/2026-09/42627659.md) — 2026-09-15（Medicine · Obstetrics · Gestational hypertension）
+- [FDA Approves First Acetaminophen and Naproxen Sodium Combination Drug](jama/2026-09/42627657.md) — 2026-09-15（Medicine · Naproxen Sodium · Acetaminophen）
+- [Are E-Scooters More Dangerous Than Motorcycles and Bicycles?](jama/2026-09/42627653.md) — 2026-09-15（Medicine · Medical emergency · MEDLINE）
+- [GLP-1 Drugs Linked to Lower Fracture Risk in People With Type 2 Diabetes](jama/2026-09/42627652.md) — 2026-09-15（Medicine · Type 2 diabetes · Internal medicine）
+- [FDA Approves First Freeze-Dried Plasma Product in the US](jama/2026-09/42627651.md) — 2026-09-15（Medicine · Product (mathematics) · Plasma）
+- [What the Cyclospora Outbreak Reveals About the State of US Foodborne Disease Surveillance](jama/2026-09/42627650.md) — 2026-09-15（Medicine · Cyclospora · Outbreak）
+- [AAP, ACOG Speak Out Against Executive Order](jama/2026-09/42627647.md) — 2026-09-15
+- [A Seismic Shift From Animal to "Human-Based" Research Is Underway-Here's What to Know About Organoids](jama/2026-09/42627645.md) — 2026-09-15（Medicine · Complement (music) · Organoid）
+- [GLP-1s-From Gut Hormone Discovery to a Public Health Revolution: A Healthy Dialogue With Jens Juul Holst and Lotte Bjerre Knudsen](jama/2026-09/42623056.md) — 2026-09-15（Medicine · Public health · Gerontology）
+- [The Original "Yes"](jama/2026-09/42623049.md) — 2026-09-15（Medicine · Narrative · Faith）
+- [Is Life Worth Saving?](jama/2026-09/42623029.md) — 2026-09-15
+- [Time to Inpatient Management for Boarding Emergency Department Patients](jama/2026-09/42606883.md) — 2026-09-15 🆓（Medicine · Medical emergency · Emergency medicine）
+- [Will Autonomous AI Exceed AI-Aided Physicians as the Best Medical Care?](jama/2026-09/42606838.md) — 2026-09-15（Medicine · Perspective (graphical) · MEDLINE）
+- [Accelerating Workforce Well-Being](jama/2026-09/42593782.md) — 2026-09-15
+- [Accelerating Workforce Well-Being-Reply](jama/2026-09/42593767.md) — 2026-09-15
+- [A Review of Endometrial Cancer](jama/2026-09/42584915.md) — 2026-09-15
+- [A Review of Endometrial Cancer-Reply](jama/2026-09/42584909.md) — 2026-09-15
+- [Non-US-Born Physicians in the US Internal Medicine Workforce](jama/2026-09/42584903.md) — 2026-09-15 🆓（Medicine · Workforce · Internal medicine）
+- [A Review of Endometrial Cancer](jama/2026-09/42584900.md) — 2026-09-15
+- [Updated Guidance for Author Use of AI in Medical Publication](jama/2026-09/42574208.md) — 2026-09-15（Medicine · Medical education · MEDLINE）
+- [Colorectal Cancer and Mortality Among Older Adults With vs Without Adenoma on Prior Colonoscopy-Reply](jama/2026-09/42574033.md) — 2026-09-15（Medicine · Colorectal cancer · Adenoma）
+- [Liquid Biopsies for Cancer: A Translational Science Review](jama/2026-09/42574031.md) — 2026-09-15（Medicine · Cancer · Colorectal cancer）
+- [Colorectal Cancer and Mortality Among Older Adults With vs Without Adenoma on Prior Colonoscopy](jama/2026-09/42574029.md) — 2026-09-15（Medicine · Colonoscopy · Colorectal cancer）
+- [Colorectal Cancer and Mortality Among Older Adults With vs Without Adenoma on Prior Colonoscopy](jama/2026-09/42574027.md) — 2026-09-15（Medicine · Colonoscopy · Colorectal cancer）
+- [Colorectal Cancer and Mortality Among Older Adults With vs Without Adenoma on Prior Colonoscopy](jama/2026-09/42574019.md) — 2026-09-15（Medicine · Colonoscopy · Colorectal cancer）
+- [What Is Male Hypogonadism?](jama/2026-09/42490080.md) — 2026-09-15（Medicine · MEDLINE · Primary care）
+- [Human Papillomavirus Screening and Self-Collected Vaginal Samples](jama/2026-09/42455535.md) — 2026-09-15（Medicine · Human papillomavirus · Gynecology）
+- [Predicting Risk of Cognitive Impairment With Alzheimer Disease Blood Biomarkers](jama/2026-09/42449502.md) — 2026-09-15（Medicine · Alzheimer's disease · Cognitive impairment）
+- [Prognostic Value of Blood-Based P-Tau217 Levels for Progression to Cognitive Impairment](jama/2026-09/42449500.md) — 2026-09-15 🆓（Medicine · Dementia · Cognition）
+- [Vibriosis](jama/2026-09/42307921.md) — 2026-09-15（Medicine · Presentation (obstetrics) · Microbiology）
+- [Integrated Telehealth Rehabilitation and Quality of Life in Mechanically Ventilated Adults: Research Summary](jama/2026-09/42268616.md) — 2026-09-15（Medicine · Telehealth · Rehabilitation）
+- [Integrated Telehealth Rehabilitation and Quality of Life in Mechanically Ventilated Adults: A Randomized Clinical Trial](jama/2026-09/42268591.md) — 2026-09-15 🆓（Medicine · Rehabilitation · Physical therapy）
+- [High-Dose Intravenous Vitamin C and Mortality and Organ Dysfunction in Severe Burn Injury: Research Summary](jama/2026-09/42267884.md) — 2026-09-15（Medicine · Organ dysfunction · Vitamin C）
+- [High-Dose Vitamin C in Burns: Time to Stop](jama/2026-09/42267877.md) — 2026-09-15
+- [High-Dose Intravenous Vitamin C and Mortality and Organ Dysfunction in Severe Burn Injury: The VICTORY Randomized Clinical Trial](jama/2026-09/42267875.md) — 2026-09-15 🆓（Medicine · Total body surface area · Burn injury）
+- [Azithromycin for Cesarean Delivery-From Trial to Practice](jama/2026-09/42734959.md) — 2026-09-14（Medicine · Azithromycin · Obstetrics）
+- [Weight Loss in Older Adults With Persistent Atrial Fibrillation](jama/2026-09/42734956.md) — 2026-09-14（Medicine · Weight loss · Internal medicine）
+- [A Future Without Excess Health Care Spending Growth?](jama/2026-09/42734954.md) — 2026-09-14（Medicine · Specialty · Perspective (graphical)）
+- [Adoption of Adjunctive Azithromycin for Unscheduled Cesarean Delivery and Postpartum Infections](jama/2026-09/42734953.md) — 2026-09-14 🆓（Medicine · Azithromycin · Obstetrics）
+- [Idiopathic Normal Pressure Hydrocephalus: A Review](jama/2026-09/42734938.md) — 2026-09-14（Medicine · Neuroimaging · Ventriculomegaly）
+- [Error in Results](jama/2026-09/42734935.md) — 2026-09-14 🆓
+- [Weight Loss in Older Adults With Persistent Atrial Fibrillation](jama/2026-09/42734933.md) — 2026-09-14（Medicine · Weight loss · Internal medicine）
+- [The Next Decade of Health Spending-Affordability and Value](jama/2026-09/42734931.md) — 2026-09-14（Medicine · Affect (linguistics) · Perspective (graphical)）
+- [Weight Loss in Older Adults With Persistent Atrial Fibrillation-Reply](jama/2026-09/42734911.md) — 2026-09-14（Medicine · Weight loss · Internal medicine）
+- [Vapes May Aid in Smoking Cessation](jama/2026-09/42726506.md) — 2026-09-11
+- [More Microplastics and Nanoplastics Detected in Patients With Heart Attacks](jama/2026-09/42726503.md) — 2026-09-11（Medicine · Microplastics · Virology）
+- [Transfusion Reactions After Tick Bites May Be a New Alpha-Gal Manifestation](jama/2026-09/42726501.md) — 2026-09-11（Medicine · Tick · Virology）
+- [Limited Early-Life Sugar Intake Linked to Lower Dementia Risk](jama/2026-09/42726499.md) — 2026-09-11（Medicine · Dementia · Lower risk）
+- [Writing Style May Explain Patient Message Response Disparities](jama/2026-09/42726498.md) — 2026-09-11（Medicine · Style (visual arts) · MEDLINE）
+- [Study Finds Artery Damage in Young Adults With CKM Syndrome](jama/2026-09/42726491.md) — 2026-09-11（Medicine · Young adult · Pediatrics）
+- [Incomplete Additional Contributions Section](jama/2026-09/42721025.md) — 2026-09-10 🆓
+- [Loberamisal for Acute Ischemic Stroke: Research Summary](jama/2026-09/42721023.md) — 2026-09-10
+- [Loberamisal for Acute Ischemic Stroke: The LAIS Randomized Clinical Trial](jama/2026-09/42721021.md) — 2026-09-10 🆓（Medicine · Modified Rankin Scale · Stroke (engine)）
+- [Neuroprotective Therapy for Acute Ischemic Stroke: A Tantalizing Prospect](jama/2026-09/42721018.md) — 2026-09-10
+- [What Is Psilocybin?](jama/2026-09/42721017.md) — 2026-09-10
+- [From Aging to AI and Beyond: A Conversation With Eric Topol](jama/2026-09/42720967.md) — 2026-09-10（Medicine · Gerontology · MEDLINE）
+- [Psilocybin](jama/2026-09/42720966.md) — 2026-09-10（Medicine · Psilocybin · Depression (economics)）
+- [Medicine's Role in Mental Health Promotion](jama/2026-09/42720962.md) — 2026-09-10
+- [Digitalis Glycosides in Patients With Heart Failure-Reply](jama/2026-09/42720939.md) — 2026-09-10（Medicine · Pharmacology · DIGITALIS GLYCOSIDES）
+- [Digitalis Glycosides in Patients With Heart Failure](jama/2026-09/42720938.md) — 2026-09-10（Medicine · Heart failure · Digitalis）
+- [Rheumatoid Arthritis in Adults: A Review](jama/2026-09/42720931.md) — 2026-09-10（Medicine · Rheumatoid arthritis · Autoantibody）
+- [Twenty-Five Years After 9/11-Lessons From the World Trade Center Health Program](jama/2026-09/42720930.md) — 2026-09-10（World trade center · Medicine · Terrorism）
+- [It Shouldn't Be Brave](jama/2026-09/42720926.md) — 2026-09-10（Medicine · Narrative · Depression (economics)）
+- [Initial Oxygen for Moderate- to Late-Preterm Infants: New Evidence for Delivery Room Care](jama/2026-09/42714904.md) — 2026-09-09（Medicine · Oxygen · Anesthesia）
+- [Narcolepsy](jama/2026-09/42714901.md) — 2026-09-09
+- [Benign Paroxysmal Positional Vertigo-Reply](jama/2026-09/42714898.md) — 2026-09-09
+- [Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants: Research Summary](jama/2026-09/42714896.md) — 2026-09-09（Medicine · Oxygen · Anesthesia）
+- [Benign Paroxysmal Positional Vertigo](jama/2026-09/42714895.md) — 2026-09-09
+- [Oxygen vs Air at Birth for Moderate- to Late-Preterm Infants: The AIROPLANE Cluster Randomized Crossover Trial](jama/2026-09/42714881.md) — 2026-09-09 🆓（Medicine · Gestation · Randomized controlled trial）
+- [How the Albert Lasker Winners Identified Orexin and Elucidated the Peptide's Role in Narcolepsy](jama/2026-09/42714228.md) — 2026-09-09（Narcolepsy · Medicine · Orexin）
+- [From Biological Insight to a New Class of Medicines for Hemophilia A: The 2026 Lasker-DeBakey Clinical Medical Research Award](jama/2026-09/42714076.md) — 2026-09-09（Medicine · Coagulation · Class (philosophy)）
+- [The Orexin System-A Key Component of Sleep Regulatory Networks and Involvement in Narcolepsy: The 2026 Albert Lasker Basic Medical Research Award](jama/2026-09/42714071.md) — 2026-09-09（Narcolepsy · Medicine · Orexin）
+- [We Set Out to Break the Mold in Science Philanthropy-It's Still Not Enough: The 2026 Lasker-Bloomberg Public Service Award](jama/2026-09/42714068.md) — 2026-09-09（Medicine · Set (abstract data type) · Service (business)）
+- [What to Know About the mRNA Flu Vaccine, Newly Approved by the FDA](jama/2026-09/42599792.md) — 2026-09-08（Medicine · Food and drug administration · Messenger RNA）
+- [Measles Cases in the US Reach Highest Number in More Than 3 Decades](jama/2026-09/42599726.md) — 2026-09-08（Medicine · Measles · Environmental health）
+- [Blood Tests for Colorectal Cancer Screening-What the Updated ACS Guideline Says](jama/2026-09/42599724.md) — 2026-09-08（Medicine · Colorectal cancer · Guideline）
+- [Wildfire Smoke Linked to Increase in ED Visits for Migraine and Headache](jama/2026-09/42599717.md) — 2026-09-08（Medicine · Migraine · Smoke）
+- [Youth Obesity Treatment Shifts Toward GLP-1 Drugs as Surgery Declines](jama/2026-09/42599714.md) — 2026-09-08（Medicine · Obesity · MEDLINE）
+- [Ebola Outbreak Intensifies](jama/2026-09/42599697.md) — 2026-09-08
+- [FDA Approves New ADHD Medication](jama/2026-09/42599694.md) — 2026-09-08
+- [Drinking Water Contaminants Associated With Uterine Cancer Risk](jama/2026-09/42599693.md) — 2026-09-08（Medicine · Uterine cancer · Contamination）
+- [Enriching Clinical Trials With Machine Learning](jama/2026-09/42593816.md) — 2026-09-08（Medicine · Artificial intelligence · Clinical trial）
+- [Why Doctors Write](jama/2026-09/42593808.md) — 2026-09-08（Medicine · CLARITY · Primary care）
+- [Focal Therapy for Prostate Cancer](jama/2026-09/42593770.md) — 2026-09-08 🆓（Medicine · Prostate cancer · Oncology）
+- [Active Surveillance Use for Favorable-Risk Prostate Cancer in a Veterans Affairs Population](jama/2026-09/42593769.md) — 2026-09-08 🆓（Medicine · Veterans Affairs · Prostate cancer）
+- [Chemistry in America, 1876-1926](jama/2026-09/42593768.md) — 2026-09-08
+- [The Emperor's New Clothes-The Discipline of Evidence](jama/2026-09/42593766.md) — 2026-09-08（Medicine · MEDLINE · Engineering ethics）
+- [Dismantling Independent Science-The Supreme Court and Public Health Regulation](jama/2026-09/42574022.md) — 2026-09-08（Supreme court · Medicine · Law）
+- [Osimertinib With or Without Chemotherapy in Advanced Non-Small Cell Lung Cancer With EGFR Variations in Concurrent TP53 Mutations: Research Summary](jama/2026-09/42574009.md) — 2026-09-08（Medicine · Osimertinib · Chemotherapy）
+- [Osimertinib With or Without Chemotherapy in Advanced Non-Small Cell Lung Cancer With EGFR and Concurrent TP53 Mutations: A Randomized Clinical Trial](jama/2026-09/42574006.md) — 2026-09-08 🆓（Osimertinib · Medicine · Lung cancer）
+- [Imminent Threats to the US Preventive Services Task Force](jama/2026-09/42573993.md) — 2026-09-08（Medicine · Task force · Task (project management)）
+- [Is There Still Room for Monotherapy in EGFR-Mutated Non-Small Cell Lung Cancer?](jama/2026-09/42573987.md) — 2026-09-08（Medicine · Lung · Internal medicine）
+- [Peanut Allergen Exposure](jama/2026-09/42560712.md) — 2026-09-08
+- [Peanut Allergen Exposure-Reply](jama/2026-09/42560682.md) — 2026-09-08（Medicine · Allergen · Immunology）
+- [Classic Hodgkin Lymphoma: A Review](jama/2026-09/42545803.md) — 2026-09-08（Medicine · Lymphoma · Malignancy）
+- [Discontinuation of Levothyroxine-Reply](jama/2026-09/42545717.md) — 2026-09-08
+- [Discontinuation of Levothyroxine](jama/2026-09/42545710.md) — 2026-09-08
+- [Sleep Health and Obesity](jama/2026-09/42525392.md) — 2026-09-08 🆓（Medicine · Obesity · Sleep (system call)）
+- [What Is Prepregnancy Care and Counseling?](jama/2026-09/42461623.md) — 2026-09-08（Medicine · Pregnancy · MEDLINE）
+- [Gastric Residual Volume Assessment in Critically Ill Children: The GASTRIC-PICU Randomized Clinical Trial](jama/2026-09/42283228.md) — 2026-09-08 🆓（Medicine · Mechanical ventilation · Enteral administration）
+- [Residual Myths in Feeding Critically Ill Children](jama/2026-09/42283222.md) — 2026-09-08
+- [Gastric Residual Volume Assessment in Critically Ill Children: Research Summary](jama/2026-09/42283220.md) — 2026-09-08（Medicine · Residual volume · Critically ill）
+- [FDA Authorizes First Autonomous Robotic Blood Draw Device](jama/2026-09/42696297.md) — 2026-09-04（Medicine · MEDLINE · Robot）
+- [Colorectal Cancer Deaths Increase Among Younger Adults](jama/2026-09/42696295.md) — 2026-09-04（Medicine · Colorectal cancer · Internal medicine）
+- [Is Phage Therapy the Next Big Hope for Urinary Tract Infections?](jama/2026-09/42696293.md) — 2026-09-04（Medicine · Urinary system · Phage therapy）
+- [Premature Menopause Linked to Increased Hypertension Risk](jama/2026-09/42696270.md) — 2026-09-04（Medicine · Menopause · Obstetrics）
+- [Digoxin for Symptomatic Rheumatic Heart Disease](jama/2026-09/42690667.md) — 2026-09-03
+- [Digoxin for Symptomatic Rheumatic Heart Disease](jama/2026-09/42690638.md) — 2026-09-03
+- [What Is Gastroparesis?](jama/2026-09/42690634.md) — 2026-09-03（Medicine · MEDLINE · Risk assessment）
+- [Editorials](jama/2026-09/42690633.md) — 2026-09-03
+- [Digoxin for Symptomatic Rheumatic Heart Disease-Reply](jama/2026-09/42690628.md) — 2026-09-03（Medicine · Digoxin · Internal medicine）
+- [A Model Patient](jama/2026-09/42690619.md) — 2026-09-03
+- [Everyone Will Feel the $1 Trillion Cut in Medicaid: A Healthy Dialogue With Julie Donohue](jama/2026-09/42690618.md) — 2026-09-03（Medicaid · Medicine · Affect (linguistics)）
+- [The Pragmatic Clinical Trial-Reconciling Intention, Design, and State of Mind: Clinical Trials in Context](jama/2026-09/42684728.md) — 2026-09-02（Medicine · State (computer science) · Epistemology）
+- [Communicating With Families About Brain Death](jama/2026-09/42684722.md) — 2026-09-02（Medicine · MEDLINE · Cause of death）
+- [Tucidinostat Plus R-CHOP vs R-CHOP Alone in Large B-Cell Lymphoma-Reply](jama/2026-09/42684693.md) — 2026-09-02（Medicine · MEDLINE · Internal medicine）
+- [Tucidinostat Plus R-CHOP vs R-CHOP Alone in Large B-Cell Lymphoma](jama/2026-09/42684687.md) — 2026-09-02（Medicine · Lymphoma · Internal medicine）
+- [COVID-19 Vaccine Effectiveness and Safety for the 2026-2027 Respiratory Season](jama/2026-09/42684258.md) — 2026-09-02（Medicine · Vaccination · Observational study）
+- [Respiratory Season Virus Vaccines: Restoring Confidence and Trust](jama/2026-09/42684254.md) — 2026-09-02（Medicine · Advisory committee · Immunization）
+- [Influenza Vaccine Effectiveness and Safety for the 2026-2027 Respiratory Season](jama/2026-09/42684248.md) — 2026-09-02（Medicine · Observational study · Influenza vaccine）
+- [RSV Immunization Effectiveness and Safety for the 2026-2027 Respiratory Season](jama/2026-09/42684247.md) — 2026-09-02（Medicine · Observational study · Vaccination）
+- [Trials Terminated Early-When Is Enough, Enough?: Clinical Trials in Context](jama/2026-09/42678436.md) — 2026-09-01
+- [Daylight Saving Time Linked to Higher Risk of Retinal Vascular Diseases](jama/2026-09/42566233.md) — 2026-09-01（Medicine · Daylight · Retinal）
+- [Will New Lyme Disease Approaches Change Patient Care?](jama/2026-09/42566225.md) — 2026-09-01（Medicine · Lyme disease · Intensive care medicine）
+- [Problematic Social Media Use Linked to Increased ADHD Symptoms in Adolescents](jama/2026-09/42566212.md) — 2026-09-01（Medicine · Social media · Psychiatry）
+- [Global Immunization Coverage Saw Gains in 2025, but Experts Warn of Trouble Ahead](jama/2026-09/42566211.md) — 2026-09-01（Medicine · Immunization · Public health）
+- [First Once-Weekly Oral HIV Treatment Demonstrates Safety and Efficacy](jama/2026-09/42566209.md) — 2026-09-01（Medicine · Human immunodeficiency virus (HIV) · Internal medicine）
+- [Compounded GLP-1 Drugs Remain Prevalent After Drug Shortage](jama/2026-09/42566208.md) — 2026-09-01（Medicine · Intensive care medicine · Economic shortage）
+- [How Common Is Alpha-Gal Syndrome?](jama/2026-09/42566207.md) — 2026-09-01
+- [CDC Reports Increase in Candida auris Infections](jama/2026-09/42566198.md) — 2026-09-01（Medicine · MEDLINE · Intensive care medicine）
+- [Abreast of Titulology](jama/2026-09/42560730.md) — 2026-09-01
+- [On Losing a Patient](jama/2026-09/42560694.md) — 2026-09-01
+- [Error in Author Name](jama/2026-09/42545800.md) — 2026-09-01 🆓
+- [Regulation of General Wellness Devices](jama/2026-09/42545714.md) — 2026-09-01
+- [One-Year Outcomes After Endovascular Treatment for Large Acute Ischemic Stroke: The TESLA Randomized Clinical Trial](jama/2026-09/42545711.md) — 2026-09-01 🆓（Medicine · Endovascular treatment · Randomized controlled trial）
+- [Addition of High-Dose Vitamin D3 to Standard Treatment in Patients With Metastatic Colorectal Cancer: Research Summary](jama/2026-09/42545706.md) — 2026-09-01（Medicine · Internal medicine · Colorectal cancer）
+- [Sorting Results of Unknown Significance-A Framework for Clinicians Navigating Wearable Data in the AI Era](jama/2026-09/42545692.md) — 2026-09-01（Medicine · Wearable computer · Perspective (graphical)）
+- [The Need to Avoid a Regulatory Gray Zone in Digital Wellness](jama/2026-09/42545688.md) — 2026-09-01（Medicine · Risk analysis (engineering) · Gray (unit)）
+- [Addition of High-Dose Vitamin D3 to Standard Treatment in Patients With Metastatic Colorectal Cancer: The SOLARIS Randomized Clinical Trial (Alliance A021703)](jama/2026-09/42545685.md) — 2026-09-01 🆓（Medicine · Internal medicine · Vitamin D and neurology）
+- [Incorrect Author Affiliations](jama/2026-09/42545683.md) — 2026-09-01 🆓（Psychology · MEDLINE · Medicine）
+- [Dapagliflozin to Reduce the Risk of Perioperative Acute Kidney Injury in Elective Cardiac Surgery](jama/2026-09/42530951.md) — 2026-09-01（Medicine · Dapagliflozin · Acute kidney injury）
+- [AI-Powered Scribes and Clinician Time Expenditure and Visit Quantity](jama/2026-09/42530923.md) — 2026-09-01（Medicine · MEDLINE · Family medicine）
+- [Dapagliflozin and Acute Kidney Injury Following Cardiac Surgery: Research Summary](jama/2026-09/42530922.md) — 2026-09-01（Medicine · Dapagliflozin · Acute kidney injury）
+- [AI-Powered Scribes and Clinician Time Expenditure and Visit Quantity](jama/2026-09/42530917.md) — 2026-09-01（Medicine · MEDLINE · Family medicine）
+- [Physician Advice on E-Cigarettes for Smoking Cessation: Differentiating Evidence From Values](jama/2026-09/42530911.md) — 2026-09-01（Medicine · Smoking cessation · Family medicine）
+- [Dapagliflozin and Acute Kidney Injury Following Cardiac Surgery: A Randomized Clinical Trial](jama/2026-09/42530910.md) — 2026-09-01 🆓（Medicine · Dapagliflozin · Acute kidney injury）
+- [Nicotine E-Cigarettes for Cigarette Smoking Cessation: Recommendations to US-Based Clinicians](jama/2026-09/42530900.md) — 2026-09-01（Medicine · Smoking cessation · Nicotine）
+- [AI-Powered Scribes and Clinician Time Expenditure and Visit Quantity-Reply](jama/2026-09/42530899.md) — 2026-09-01（Medicine · MEDLINE · Physical therapy）
+- [Mortality in ICE Detention-Reply](jama/2026-09/42525428.md) — 2026-09-01（Medicine · Immigration · Enforcement）
+- [Mortality in ICE Detention](jama/2026-09/42525425.md) — 2026-09-01
+- [Safe Sleep Video Intervention via Text Messaging to Low-Income Families: The SMARTER Randomized Clinical Trial](jama/2026-09/42490082.md) — 2026-09-01 🆓（Medicine · Supine position · Pacifier）
+- [Mechanical Thrombectomy in Ischemic Stroke With a Medium or Distal Arterial Occlusion: Research Summary](jama/2026-09/42485053.md) — 2026-09-01（Medicine · Cardiology · Internal medicine）
+- [Mechanical Thrombectomy in Ischemic Stroke With a Medium or Distal Arterial Occlusion: The DISCOUNT Randomized Clinical Trial](jama/2026-09/42485024.md) — 2026-09-01 🆓（Medicine · Modified Rankin Scale · Stroke (engine)）
+- [Hepatitis B](jama/2026-09/42418208.md) — 2026-09-01（Medicine · Acute hepatitis B · Virology）
+- [Surgical and Endoscopic Therapies for GERD](jama/2026-09/42384419.md) — 2026-09-01（Medicine · GERD · Endoscopic mucosal resection）
+- [Complexity of Diagnosing Volume Overload](jama/2026-09/42377986.md) — 2026-09-01
+- [Incorrect Data in Rational Clinical Examination Article](jama/2026-09/42377978.md) — 2026-09-01（Medicine · Physical examination · Medical physics）
+- [Complexity of Diagnosing Volume Overload-Reply](jama/2026-09/42377972.md) — 2026-09-01
+- [Complexity of Diagnosing Volume Overload](jama/2026-09/42377968.md) — 2026-09-01
+- [Complexity of Diagnosing Volume Overload](jama/2026-09/42377953.md) — 2026-09-01
+- [Complexity of Diagnosing Volume Overload](jama/2026-09/42377949.md) — 2026-09-01 🆓（Medicine · Volume overload · Volume (thermodynamics)）
+- [Complexity of Diagnosing Volume Overload](jama/2026-09/42377943.md) — 2026-09-01
+
+### 2026-08
+
+- [The Veteran Affairs' Approach for Chronic Pain Management-Reply](jama/2026-08/42671860.md) — 2026-08-31（Medicine · Chronic pain · Physical therapy）
+- [The Veteran Affairs' Approach for Chronic Pain Management](jama/2026-08/42671846.md) — 2026-08-31（Medicine · Chronic pain · Physical therapy）
+- [Low-Voltage Ablation in Persistent Atrial Fibrillation: Research Summary](jama/2026-08/42669135.md) — 2026-08-30（Medicine · Cardiology · Internal medicine）
+- [Low-Voltage Ablation in Persistent Atrial Fibrillation: The IDEAL-AF Randomized Clinical Trial](jama/2026-08/42669133.md) — 2026-08-30 🆓（Medicine · Ablation · Pulmonary vein）
+- [Beyond the Pulmonary Veins in Atrial Fibrillation-Are We There Yet?](jama/2026-08/42669128.md) — 2026-08-30（Medicine · Cardiology · Internal medicine）
+- [Gene Silencer Therapy in Transthyretin Amyloid Cardiomyopathy: A Meta-Analysis of Outcomes Trials](jama/2026-08/42669065.md) — 2026-08-30 🆓（Medicine · Transthyretin · Internal medicine）
+- [124I-Evuzamitide Positron Emission Tomography/Computed Tomography for Diagnosing Cardiac Amyloidosis: The REVEAL Nonrandomized Clinical Trial](jama/2026-08/42669054.md) — 2026-08-30 🆓（Medicine · Cardiac amyloidosis · Radiology）
+- [Anticoagulation Monotherapy vs Antiplatelet Monotherapy After Transcatheter Aortic Valve Implant: The ACASA-TAVI Randomized Clinical Trial](jama/2026-08/42669043.md) — 2026-08-30 🆓（Medicine · Clinical endpoint · Antithrombotic）
+- [Anticoagulation Monotherapy vs Antiplatelet Monotherapy After Transcatheter Aortic Valve Implant: Research Summary](jama/2026-08/42669042.md) — 2026-08-30（Medicine · Implant · Surgery）
+- [Small Gains but Persistent Gaps in Statin Adherence](jama/2026-08/42667614.md) — 2026-08-29（Medicine · Hydroxymethylglutaryl-CoA Reductase Inhibitors · Statin）
+- [Digital Outreach to Improve Statin Refills in Patients With Low Statin Adherence: The ADHERE-ASCVD Randomized Clinical Trial](jama/2026-08/42667613.md) — 2026-08-29 🆓（Medicine · Outreach · Randomized controlled trial）
+- [Digital Outreach to Improve Statin Refills in Patients With Low Statin Adherence: Research Summary](jama/2026-08/42667612.md) — 2026-08-29（Medicine · Statin · Outreach）
+- [Pulmonary Vein Isolation Using Pulsed Field Ablation With vs Without Posterior Wall Isolation in Patients With Symptomatic Persistent Atrial Fibrillation: The PIFPAF-PFA Randomized Clinical Trial](jama/2026-08/42667231.md) — 2026-08-29 🆓（Medicine · Pulmonary vein · Atrial fibrillation）
+- [Pulmonary Vein Isolation Using Pulsed Field Ablation With vs Without Posterior Wall Isolation in Patients With Symptomatic Persistent Atrial Fibrillation: Research Summary](jama/2026-08/42667228.md) — 2026-08-29（Medicine · Pulmonary vein · Isolation (microbiology)）
+- [LDL Cholesterol Lowering With Evolocumab Before Percutaneous Coronary Intervention for Acute Myocardial Infarction: Research Summary](jama/2026-08/42666096.md) — 2026-08-29（Medicine · Evolocumab · Internal medicine）
+- [LDL Cholesterol Lowering With Evolocumab Before Percutaneous Coronary Intervention for Acute Myocardial Infarction: The AMUNDSEN Randomized Clinical Trial](jama/2026-08/42666092.md) — 2026-08-29 🆓（Medicine · Evolocumab · Myocardial infarction）
+- [A Marathon, Not a Sprint-AMUNDSEN and LDL-C Lowering After Myocardial Infarction](jama/2026-08/42666085.md) — 2026-08-29（Medicine · Myocardial infarction · Cardiology）
+- [Electrocardiogram-Based Deep Learning to Prioritize Testing for Transthyretin Amyloid Cardiomyopathy](jama/2026-08/42663420.md) — 2026-08-28 🆓（Medicine · Transthyretin · Cardiomyopathy）
+- [Cardiovascular Magnetic Resonance to Guide Defibrillator Implantation for LVEF of 36% to 50%: The CMR GUIDE Randomized Clinical Trial](jama/2026-08/42663169.md) — 2026-08-28 🆓（Medicine · Ejection fraction · Cardiology）
+- [Implantable Cardioverter-Defibrillators for Preventing Sudden Cardiac Death in Patients With an LVEF >35](jama/2026-08/42663165.md) — 2026-08-28（Medicine · Cardiology · Sudden cardiac death）
+- [Cardiovascular Magnetic Resonance to Guide Defibrillator Implantation for LVEF of 36% to 50%: Research Summary](jama/2026-08/42663164.md) — 2026-08-28（Medicine · Cardiology · Ejection fraction）
+- [Parental Support Package for Pregnant and Postpartum Trainees](jama/2026-08/42658543.md) — 2026-08-27（Medicine · Family medicine · Postpartum period）
+- [Parental Support Package for Pregnant and Postpartum Trainees-Reply](jama/2026-08/42658535.md) — 2026-08-27（Medicine · Obstetrics · Postpartum period）
+- [What Is a Hip Fracture?](jama/2026-08/42647039.md) — 2026-08-26（Medicine · Hip fracture · MEDLINE）
+- [Amoxicillin-Clavulanate vs Amoxicillin for Sinusitis](jama/2026-08/42647035.md) — 2026-08-26（Medicine · Amoxicillin · Sinusitis）
+- [Cannabinoid Hyperemesis Syndrome](jama/2026-08/42647032.md) — 2026-08-26（Medicine · Cannabinoid · Epidemiology）
+- [Amoxicillin-Clavulanate vs Amoxicillin for Sinusitis-Reply](jama/2026-08/42647030.md) — 2026-08-26（Medicine · Amoxicillin · Internal medicine）
+- [Amoxicillin-Clavulanate vs Amoxicillin for Sinusitis](jama/2026-08/42647023.md) — 2026-08-26（Medicine · Amoxicillin · Sinusitis）
+- [Predictive Utility of Coronary Artery Calcium Score Added to the PREVENT Atherosclerotic Cardiovascular Disease Equations](jama/2026-08/42647022.md) — 2026-08-26（Medicine · Atherosclerotic cardiovascular disease · Coronary artery calcium）
+- [Ischemic Heart Disease Deaths Increasingly Tied to BMI, Hyperglycemia](jama/2026-08/42536388.md) — 2026-08-25（Medicine · Disease · Cardiology）
+- [FDA Approves First Oral PCSK9 Inhibitor to Lower LDL Cholesterol](jama/2026-08/42536382.md) — 2026-08-25（Medicine · PCSK9 · Ldl cholesterol）
+- [FDA Approves At-Home Starting Dose for Anti-Amyloid Therapy](jama/2026-08/42536380.md) — 2026-08-25（Medicine · Intensive care medicine · MEDLINE）
+- [Soccer Players' Brains, P-Tau217 Blood Tests, Lifestyle and Dementia Risk, and More From AAIC 2026](jama/2026-08/42536379.md) — 2026-08-25（Medicine · Dementia · Association (psychology)）
+- [ACOG Releases New HIV Screening and Prevention Guidelines](jama/2026-08/42536367.md) — 2026-08-25（Medicine · Human immunodeficiency virus (HIV) · HIV screening）
+- [HHS Launches Voluntary Pledge for More Nutritious Hospital Food](jama/2026-08/42536365.md) — 2026-08-25（Pledge · Medicine · Turnover）
+- [Infections Linked to Increased Risk of Psychiatric and Neurological Disorders](jama/2026-08/42536359.md) — 2026-08-25（Medicine · Psychiatry · MEDLINE）
+- [Cancer Medicine Approvals in the US](jama/2026-08/42530909.md) — 2026-08-25 🆓（Medicine · Food and drug administration · Drug approval）
+- [Global Low-Density Lipoprotein Cholesterol-Leveraging Estimation for Action](jama/2026-08/42525406.md) — 2026-08-25（Medicine · Action (physics) · Lipoprotein(a)）
+- [Global Burden of Elevated LDL-C: Findings From the Global Burden of Disease Study 2023](jama/2026-08/42525403.md) — 2026-08-25 🆓（Medicine · Burden of disease · Environmental health）
+- [Trends in Alcohol Consumption During Pregnancy in the US](jama/2026-08/42507429.md) — 2026-08-25 🆓（Medicine · Binge drinking · Pregnancy）
+- [Restrictive vs Liberal Physical Restraint Use](jama/2026-08/42507396.md) — 2026-08-25（Medicine · Distressing · Affect (linguistics)）
+- [Restrictive vs Liberal Physical Restraint Use-Reply](jama/2026-08/42507395.md) — 2026-08-25（Medicine · MEDLINE · Criminology）
+- [Restrictive vs Liberal Physical Restraint Use](jama/2026-08/42507385.md) — 2026-08-25
+- [The iPatient Meets the iDoctor](jama/2026-08/42507375.md) — 2026-08-25（Medicine · Perspective (graphical) · Digital health）
+- [My Tendon Will Tell Me When](jama/2026-08/42490103.md) — 2026-08-25（Medicine · Achilles tendon · Tendon）
+- [Street Risk of Carbon Monoxide Poisoning](jama/2026-08/42490101.md) — 2026-08-25
+- [Evolocumab and Cardiovascular Events in Patients With Diabetes Without Known Significant Atherosclerosis](jama/2026-08/42490090.md) — 2026-08-25（Medicine · Evolocumab · Diabetes mellitus）
+- [Evolocumab and Cardiovascular Events in Patients With Diabetes Without Known Significant Atherosclerosis](jama/2026-08/42490087.md) — 2026-08-25（Medicine · Evolocumab · Diabetes mellitus）
+- [More Prompt Aid for Automobilists](jama/2026-08/42490085.md) — 2026-08-25
+- [Evolocumab and Cardiovascular Events in Patients With Diabetes Without Known Significant Atherosclerosis-Reply](jama/2026-08/42490076.md) — 2026-08-25（Medicine · Evolocumab · Diabetes mellitus）
+- [Breast Density Masking and Precision Screening-Reply](jama/2026-08/42485034.md) — 2026-08-25（Medicine · Masking (illustration) · Breast density）
+- [Breast Density Masking and Precision Screening](jama/2026-08/42485029.md) — 2026-08-25
+- [Why and How Should the Government Fund Biomedical Research?: A Healthy Dialogue With Jeremy Berg](jama/2026-08/42485027.md) — 2026-08-25（Medicine · Government (linguistics) · Conversation）
+- [YEARS Algorithm for Diagnosis of Suspected Pulmonary Embolism in Patients With Cancer: Research Summary](jama/2026-08/42437324.md) — 2026-08-25（Medicine · Pulmonary embolism · Cancer）
+- [Ruling Out PE in Cancer-Can YEARS Reduce CT Imaging?](jama/2026-08/42437323.md) — 2026-08-25（Medicine · Radiology · Computed tomography）
+- [YEARS Algorithm for Diagnosis of Suspected Pulmonary Embolism in Patients With Cancer: A Randomized Clinical Trial](jama/2026-08/42437322.md) — 2026-08-25 🆓（Medicine · Pulmonary embolism · Radiology）
+- [Formulary-Related Insurance Denials of Single-Source Branded Drugs in the United States](jama/2026-08/42424046.md) — 2026-08-25 🆓（Formulary · Prior authorization · Medicine）
+- [Familial Hypercholesterolemia](jama/2026-08/42371647.md) — 2026-08-25（Medicine · Familial hypercholesterolemia · Internal medicine）
+- [End-of-Life and Hospice Care for People Who Are Incarcerated](jama/2026-08/42340686.md) — 2026-08-25（Medicine · Prison · Hospice care）
+- [Sodium Bicarbonate for In-Hospital Cardiac Arrest: A Randomized Clinical Trial](jama/2026-08/42273960.md) — 2026-08-25 🆓（Medicine · Return of spontaneous circulation · Sodium bicarbonate）
+- [Will the Bicarbonate for In-Hospital Cardiac Arrest Trial Change Practice?](jama/2026-08/42273956.md) — 2026-08-25（Medicine · Bicarbonate · Cardiology）
+- [Sodium Bicarbonate for In-Hospital Cardiac Arrest: Research Summary](jama/2026-08/42273954.md) — 2026-08-25
+- [What Is Tetanus?](jama/2026-08/42060287.md) — 2026-08-25（Medicine · MEDLINE · Vaccination）
+- [Managing Chronic Subdural Hematoma With Adjunctive Embolization of Middle Meningeal Artery](jama/2026-08/42636015.md) — 2026-08-24（Medicine · Middle meningeal artery · Chronic subdural hematoma）
+- [Managing Chronic Subdural Hematoma With Adjunctive Embolization of Middle Meningeal Artery-Reply](jama/2026-08/42636002.md) — 2026-08-24（Medicine · Middle meningeal artery · Chronic subdural hematoma）
+- [Postural Orthostatic Tachycardia Syndrome (POTS): A Review](jama/2026-08/42635998.md) — 2026-08-24（Medicine · Orthostatic vital signs · Postural Orthostatic Tachycardia Syndrome）
+- [Rural-Urban Disparities in the Delivery and Intensity of the Medicare Hospice Benefit](jama/2026-08/42635982.md) — 2026-08-24 🆓（Medicine · Hospice care · Family medicine）
+- [Daily Zinc Supplementation for Infection Prevention in Children With Sickle Cell Anemia: Research Summary](jama/2026-08/42616550.md) — 2026-08-19（Medicine · Sickle cell anemia · Anemia）
+- [What Is Alcohol-Related Liver Disease?](jama/2026-08/42616549.md) — 2026-08-19（Medicine · MEDLINE · Internal medicine）
+- [Medications for Alcohol Use Disorder](jama/2026-08/42616548.md) — 2026-08-19（Medicine · Alcohol · Alcohol use disorder）
+- [Arginine Therapy for Sickle Cell Disease Acute Pain Episodes: The STArT Randomized Clinical Trial](jama/2026-08/42616542.md) — 2026-08-19 🆓（Medicine · Opioid · Emergency department）
+- [Daily Zinc Supplementation for Infection Prevention in Children With Sickle Cell Anemia: The ZIPS-2 Randomized Clinical Trial](jama/2026-08/42616536.md) — 2026-08-19 🆓（Medicine · Placebo · Sickle cell anemia）
+- [Arginine Treatment and Sickle Cell Disease Pain-A Great STArT, but a Hard End Point](jama/2026-08/42616535.md) — 2026-08-19（Medicine · Cell · Disease）
+- [Arginine Therapy for Sickle Cell Disease Acute Pain Episodes: Research Summary](jama/2026-08/42616514.md) — 2026-08-19（Medicine · Disease · Arginine）
+- [FDA Approves Gene Therapy for Younger Children With Sickle Cell Disease](jama/2026-08/42496997.md) — 2026-08-18（Medicine · Disease · Genetic enhancement）
+- [WHO Releases Global Status Report on Cancer](jama/2026-08/42496996.md) — 2026-08-18
+- [Flu Vaccine Remains Highly Effective Against Pediatric Mortality](jama/2026-08/42496990.md) — 2026-08-18（Medicine · Intensive care medicine · MEDLINE）
+- [A Decade After the CDC's Opioid Prescribing Guidelines, Have Clinicians Struck the Right Balance?](jama/2026-08/42496988.md) — 2026-08-18（Medicine · Opioid · Intensive care medicine）
+- [Wild West or Gold Rush: How Long-Neglected Menopause Care Has Spawned a Booming Marketplace](jama/2026-08/42496987.md) — 2026-08-18（Medicine · Menopause · Medical care）
+- [US Death Rates Reach All-Time Low in 2025](jama/2026-08/42496984.md) — 2026-08-18
+- [Metals Found in Tampons Within Margin of Safety, FDA Study Finds](jama/2026-08/42496982.md) — 2026-08-18（Medicine · Margin (machine learning) · MEDLINE）
+- [GLP-1 Medications May Improve Health in People With PAD and Diabetes](jama/2026-08/42496971.md) — 2026-08-18（Medicine · Diabetes mellitus · Intensive care medicine）
+- [How Generative AI Should Transform Clinical Decision Support](jama/2026-08/42490104.md) — 2026-08-18（Medicine · Warrant · Decision support system）
+- [Gastroparesis: A Review](jama/2026-08/42485161.md) — 2026-08-18（Medicine · Gastroparesis · Gastric emptying）
+- [Prevalence of LDL-C Above 2026 Dyslipidemia Guideline Goals Among US Adults](jama/2026-08/42475109.md) — 2026-08-18 🆓（Medicine · Dyslipidemia · Guideline）
+- [New Dyslipidemia Guidelines Lower the Lipid Treatment Goals and Raise the Bar for Clinical Practice](jama/2026-08/42475090.md) — 2026-08-18（Medicine · Dyslipidemia · Clinical Practice）
+- [Cardiovascular Risk Reclassification With the 2026 Dyslipidemia Guideline](jama/2026-08/42475087.md) — 2026-08-18 🆓（Medicine · Dyslipidemia · Guideline）
+- [Review of Diagnosis and Management of Resistant Hypertension](jama/2026-08/42475084.md) — 2026-08-18（Medicine · Resistant hypertension · Intensive care medicine）
+- [Review of Diagnosis and Management of Resistant Hypertension](jama/2026-08/42475077.md) — 2026-08-18（Medicine · Resistant hypertension · Intensive care medicine）
+- [Review of Diagnosis and Management of Resistant Hypertension](jama/2026-08/42475073.md) — 2026-08-18（Medicine · Resistant hypertension · Intensive care medicine）
+- [Dyslipidemia Evaluation and Management](jama/2026-08/42475072.md) — 2026-08-18（Medicine · Dyslipidemia · Guideline）
+- [Implications of the 2026 Dyslipidemia Guideline for Primary Prevention Statin Therapy](jama/2026-08/42475062.md) — 2026-08-18 🆓（Medicine · Dyslipidemia · Guideline）
+- [Review of Diagnosis and Management of Resistant Hypertension-Reply](jama/2026-08/42475052.md) — 2026-08-18（Medicine · Intensive care medicine · MEDLINE）
+- [Lead Exposure and the Coronary Heart Disease Epidemic](jama/2026-08/42461654.md) — 2026-08-18（Medicine · Coronary heart disease · Cardiology）
+- [Consecratio Medici](jama/2026-08/42461646.md) — 2026-08-18
+- [Would Anyone Notice?](jama/2026-08/42461644.md) — 2026-08-18（Medicine · Surprise · Phone）
+- [Lead Exposure and the Coronary Heart Disease Epidemic-Reply](jama/2026-08/42461639.md) — 2026-08-18（Medicine · Coronary heart disease · Cardiology）
+- [Tumor Debulking Plus Chemotherapy for Multiorgan Metastatic Colorectal Cancer-Reply](jama/2026-08/42455548.md) — 2026-08-18（Medicine · Debulking · Chemotherapy）
+- [Tumor Debulking Plus Chemotherapy for Multiorgan Metastatic Colorectal Cancer](jama/2026-08/42455538.md) — 2026-08-18（Medicine · Debulking · Chemotherapy）
+- [Tumor Debulking Plus Chemotherapy for Multiorgan Metastatic Colorectal Cancer](jama/2026-08/42455527.md) — 2026-08-18（Medicine · Debulking · Chemotherapy）
+- [Cutting Medicaid for Children-A Bet Against the Future](jama/2026-08/42440307.md) — 2026-08-18（Medicaid · Medicine · Health insurance）
+- [What Is Low Back Pain?](jama/2026-08/42384402.md) — 2026-08-18（Medicine · MEDLINE · Low back pain）
+- [Lifestyle and Metformin Interventions and Risk of Multimorbidity in Adults With Prediabetes](jama/2026-08/42295772.md) — 2026-08-18 🆓（Medicine · Prediabetes · Discontinuation）
+- [Addressing Multimorbidity Challenges in Diabetes-Lifestyle and Beyond](jama/2026-08/42295750.md) — 2026-08-18（Medicine · Multimorbidity · MEDLINE）
+- [Measured and Estimated Glomerular Filtration Rates and Risk of Adverse Health Outcomes](jama/2026-08/42240159.md) — 2026-08-18 🆓（Medicine · Renal function · Hazard ratio）
+- [Precision, Pragmatism, and Emerging Paradigms in Determining Kidney Filtration Function](jama/2026-08/42240151.md) — 2026-08-18（Medicine · Renal function · Kidney）
+- [Cold and Room-Temperature Platelets in Cardiac Surgery: The CHIPS Randomized Clinical Trial](jama/2026-08/42606886.md) — 2026-08-17 🆓（Medicine · Cardiopulmonary bypass · Cardiac surgery）
+- [A World With Platelets Stored Cold for 21 Days: Chill and Tender](jama/2026-08/42606881.md) — 2026-08-17
+- [Cold and Room-Temperature Platelets in Cardiac Surgery: Research Summary](jama/2026-08/42606875.md) — 2026-08-17（Medicine · Cardiac surgery · Platelet）
+- [From Breakthrough to Follow-Through-A Public Health Agenda for AI](jama/2026-08/42593958.md) — 2026-08-13（Medicine · Psychological intervention · Public health）
+- [What Is Celiac Disease?](jama/2026-08/42584899.md) — 2026-08-12（Medicine · MEDLINE · Intestinal malabsorption）
+- [Diagnosis of Celiac Disease](jama/2026-08/42584883.md) — 2026-08-12（Medicine · Disease · Biopsy）
+- [FDA Authorizes 20 Nicotine Pouches to Be Marketed With Modified Risk Claim](jama/2026-08/42467456.md) — 2026-08-11（Medicine · Nicotine · Intensive care medicine）
+- [What to Know About the First CKM Syndrome Guidelines](jama/2026-08/42467446.md) — 2026-08-11（Medicine · Clinical Practice · Medical physics）
+- [Breast Cancer Recommendations Fuel Debate Over Who Should Write Screening Guidelines](jama/2026-08/42467445.md) — 2026-08-11（Medicine · Primary care · Family medicine）
+- [Global Cardiology Groups Issue New Universal Definition of Heart Failure](jama/2026-08/42467444.md) — 2026-08-11（Medicine · Heart failure · Intensive care medicine）
+- [Goal-Focused Rehabilitation May Improve Cognitive Outcomes of Long COVID](jama/2026-08/42467443.md) — 2026-08-11（Medicine · Coronavirus disease 2019 (COVID-19) · Rehabilitation）
+- [Healthy Dietary Patterns Linked to Lower Dementia Risk, Study Finds](jama/2026-08/42467441.md) — 2026-08-11（Medicine · Dementia · Gerontology）
+- [FDA Approves Hypertriglyceridemia Drug That May Reduce Pancreatitis Risk](jama/2026-08/42467428.md) — 2026-08-11（Medicine · Hypertriglyceridemia · Drug）
+- [ACIP's New Charter Shifts Focus and Structure, Concerns IDSA](jama/2026-08/42467422.md) — 2026-08-11（Medicine · Charter · Focus (optics)）
+- [Estimating Intervention Effects With Difference-in-Differences](jama/2026-08/42461662.md) — 2026-08-11（Medicine · Intervention (counseling) · Outcome (game theory)）
+- [Causal Language for Studies Using Difference-in-Differences Analyses](jama/2026-08/42461649.md) — 2026-08-11（Medicine · Linguistics · Natural language processing）
+- [Hip Fractures: A Review](jama/2026-08/42461643.md) — 2026-08-11（Medicine · Hip fracture · Femoral neck）
+- [Erosion of Professional Medical Standards by the Supreme Court](jama/2026-08/42455594.md) — 2026-08-11（Supreme court · Medicine · Law）
+- [Savings Under Most-Favored-Nation Pricing for Prescription Drugs in Medicaid](jama/2026-08/42455531.md) — 2026-08-11 🆓（Medicaid · Medicine · Payment）
+- [Global Radiation Doses in Coronary Artery Disease Diagnostic Imaging-Reply](jama/2026-08/42440329.md) — 2026-08-11（Medicine · Radiation dose · Coronary artery disease）
+- [Global Radiation Doses in Coronary Artery Disease Diagnostic Imaging](jama/2026-08/42440310.md) — 2026-08-11（Medicine · Coronary artery disease · Radiology）
+- [Review of Obesity and Cancer](jama/2026-08/42424075.md) — 2026-08-11
+- [When Illness Stories Lose Their Momentum](jama/2026-08/42424067.md) — 2026-08-11（Medicine · Narrative · Momentum (technical analysis)）
+- [Review of Obesity and Cancer-Reply](jama/2026-08/42424064.md) — 2026-08-11
+- [A Chapter in the History of the Nervous System](jama/2026-08/42424052.md) — 2026-08-11
+- [Deaths Caused by Law Enforcement in the US](jama/2026-08/42418209.md) — 2026-08-11 🆓（Medicine · Law enforcement · Law）
+- [Lung Transplant for Refractory Lung-Limited Stage IV Non-Small Cell Lung Cancer](jama/2026-08/42418196.md) — 2026-08-11 🆓（Medicine · Lung cancer · Lung）
+- [Rates of Precipitated Withdrawal in a Trial of ED-Initiated Buprenorphine for Opioid Use Disorder-Reply](jama/2026-08/42418185.md) — 2026-08-11（Medicine · Buprenorphine · Anesthesia）
+- [New Lungs for Lung Cancer-Perils and Promises](jama/2026-08/42418180.md) — 2026-08-11
+- [Rates of Precipitated Withdrawal in a Trial of ED-Initiated Buprenorphine for Opioid Use Disorder](jama/2026-08/42418166.md) — 2026-08-11（Medicine · Buprenorphine · Opioid use disorder）
+- [Using AI Disagreement to Expose Gaps in Coverage Rules](jama/2026-08/42406373.md) — 2026-08-11（EXPOSE · Medicine · Payment）
+- [Neonatal Survival After Serial Amnioinfusions for Anhydramnios Due to Fetal Kidney Failure: The RAFT Clinical Trial](jama/2026-08/42384373.md) — 2026-08-11 🆓（Medicine · Gestation · Pulmonary hypoplasia）
+- [Antiviral Therapies for Adults With Mild to Moderate COVID-19 Infection](jama/2026-08/42377969.md) — 2026-08-11（Medicine · Antiviral therapy · Antiviral treatment）
+- [Amyotrophic Lateral Sclerosis](jama/2026-08/42348198.md) — 2026-08-11（Medicine · Amyotrophic lateral sclerosis · Pathology）
+- [Adjuvant Nivolumab vs Observation in Resected Non-Small Cell Lung Cancer: Research Summary](jama/2026-08/42224491.md) — 2026-08-11（Medicine · Nivolumab · Adjuvant）
+- [Adjuvant Nivolumab vs Observation in Resected Non-Small Cell Lung Cancer: A Randomized Clinical Trial](jama/2026-08/42224490.md) — 2026-08-11 🆓（Medicine · Nivolumab · Lung cancer）
+- [Communicating With Patients About Physical Activity](jama/2026-08/42560728.md) — 2026-08-06 🆓（Medicine · Physical activity · Physical therapy）
+- [Iron Delivery Amid Nutritional and Infectious Adversity](jama/2026-08/42560707.md) — 2026-08-06（Medicine · Intensive care medicine · Environmental health）
+- [Iron or Multiple Micronutrient Powder Supplements With Malaria Chemoprevention in Rural Malawian Children: Research Summary](jama/2026-08/42560703.md) — 2026-08-06（Medicine · Micronutrient · Malaria）
+- [Therapeutic Use of Cannabis and Cannabinoids](jama/2026-08/42560697.md) — 2026-08-06（Medicine · Cannabis · Marijuana smoking）
+- [Iron or Multiple Micronutrient Powder Supplements With Malaria Chemoprevention in Rural Malawian Children: The IRMA Randomized Clinical Trial](jama/2026-08/42560689.md) — 2026-08-06 🆓（Medicine · Micronutrient · Malaria）
+- [Food Politics, Obesity, and the "Wicked Mess" We Are In: A Healthy Dialogue With Marion Nestle](jama/2026-08/42555059.md) — 2026-08-05（Medicine · Gerontology · MEDLINE）
+- [Intracellular Bacterial Persistence in Preventing Surgical Site Infections in Tibial Fractures](jama/2026-08/42555056.md) — 2026-08-05（Medicine · Persistence (discontinuity) · Intracellular）
+- [Trials Terminated Early: When Is Enough, Enough?](jama/2026-08/42555034.md) — 2026-08-05
+- [Intracellular Bacterial Persistence in Preventing Surgical Site Infections in Tibial Fractures-Reply](jama/2026-08/42555008.md) — 2026-08-05（Medicine · Persistence (discontinuity) · Intracellular）
+- [Duration of Therapeutic Hypothermia After Out-of-Hospital Cardiac Arrest: The ICECAP Randomized Clinical Trial](jama/2026-08/42554995.md) — 2026-08-05 🆓（Medicine · Hypothermia · Randomization）
+- [FDA Approves First Generic Single-Dose Flu Treatment](jama/2026-08/42430183.md) — 2026-08-04（Medicine · MEDLINE · Intensive care medicine）
+- [US Youth Tobacco Use Declines, but Flavored Products Remain Popular](jama/2026-08/42430176.md) — 2026-08-04（Medicine · Tobacco use · Environmental health）
+- [Sugary Drink Consumption May Raise Hypertension Risk, Starting in Childhood](jama/2026-08/42430154.md) — 2026-08-04（Medicine · Consumption (sociology) · Environmental health）
+- [Testosterone Therapy: Does New Evidence Warrant Broader Prescribing?](jama/2026-08/42430153.md) — 2026-08-04（Medicine · Warrant · Testosterone (patch)）
+- [FDA Approves First Oral Carbapenem for Complicated UTIs](jama/2026-08/42430152.md) — 2026-08-04（Medicine · Carbapenem · Internal medicine）
+- [Approval of Respiratory Biologics Linked to Decline in Asthma Exacerbations](jama/2026-08/42430145.md) — 2026-08-04（Medicine · Asthma exacerbations · Respiratory system）
+- [GLP-1 Drugs Associated With Smell and Taste Disruptions](jama/2026-08/42430142.md) — 2026-08-04（Medicine · Taste · Olfaction）
+- [Alzheimer Disease Biomarkers and Assisted Dying: When Diagnosis Becomes a Deadline](jama/2026-08/42424076.md) — 2026-08-04（Medicine · Alzheimer's disease · Biomarker）
+- [Alcohol-Related Liver Disease: A Review](jama/2026-08/42406571.md) — 2026-08-04（Medicine · Cirrhosis · Transient elastography）
+- [Online Prescribing of GLP-1 Receptor Agonists](jama/2026-08/42406378.md) — 2026-08-04 🆓（Medicine · Medical prescription · Agonist）
+- [Randomized Trials in Pregnancy](jama/2026-08/42406369.md) — 2026-08-04（Medicine · Randomized controlled trial · Pregnancy）
+- [Randomized Trials in Pregnancy-Reply](jama/2026-08/42406364.md) — 2026-08-04
+- [The Psychedelic Therapies Executive Order: On Approval and Clinical Readiness](jama/2026-08/42384415.md) — 2026-08-04（Medicine · Executive order · Order (exchange)）
+- [Smallpox-Old and New](jama/2026-08/42384392.md) — 2026-08-04
+- [Social Media Use by Children-Wonderful, Hazardous, or Something in Between?: A Healthy Dialogue With Dimitri A. Christakis](jama/2026-08/42384390.md) — 2026-08-04（Medicine · Social media · Media studies）
+- [Decision-Support Tool for Antidepressant Treatment of Patients With Major Depressive Disorder-Reply](jama/2026-08/42384377.md) — 2026-08-04（Medicine · Antidepressant · Depression (economics)）
+- [Decision-Support Tool for Antidepressant Treatment of Patients With Major Depressive Disorder](jama/2026-08/42384371.md) — 2026-08-04（Medicine · Major depressive disorder · Discontinuation）
+- [Education Leadership in Accreditation Reform-Reply](jama/2026-08/42377988.md) — 2026-08-04
+- [Education Leadership in Accreditation Reform](jama/2026-08/42377975.md) — 2026-08-04
+- [Education Leadership in Accreditation Reform](jama/2026-08/42377948.md) — 2026-08-04
+- [Whole-System Trust in Science, Medicine, and Public Health](jama/2026-08/42348398.md) — 2026-08-04（Medicine · Perspective (graphical) · Action (physics)）
+- [Learning to Listen](jama/2026-08/42348197.md) — 2026-08-04（Medicine · Narrative · Sudden Hearing Loss）
+- [Self-Directed vs Clinician-Delivered Cognitive Behavioral Therapy for Chronic Pain: Research Summary](jama/2026-08/42340736.md) — 2026-08-04（Medicine · Chronic pain · Cognitive behavioral therapy）
+- [Self-Directed vs Clinician-Delivered Cognitive Behavioral Therapy for Chronic Pain: A Randomized Clinical Trial](jama/2026-08/42340733.md) — 2026-08-04 🆓（Medicine · Physical therapy · Chronic pain）
+- [Orforglipron Added to Titrated Insulin Glargine in Type 2 Diabetes: The ACHIEVE-5 Randomized Clinical Trial](jama/2026-08/42251769.md) — 2026-08-04 🆓（Medicine · Insulin glargine · Type 2 diabetes）
+- [Mazdutide and Orforglipron-New Evidence in Obesity and Diabetes](jama/2026-08/42251768.md) — 2026-08-04（Medicine · Obesity · Diabetes mellitus）
+- [Orforglipron Added to Titrated Insulin Glargine in Type 2 Diabetes: Research Summary](jama/2026-08/42251766.md) — 2026-08-04（Medicine · Insulin glargine · Type 2 diabetes）
+- [Treatment With 9-mg Mazdutide for Weight Reduction in Chinese Adults With Obesity: Research Summary](jama/2026-08/42251596.md) — 2026-08-04（Medicine · Obesity · Weight loss）
+- [Treatment With 9-mg Mazdutide for Weight Reduction in Chinese Adults With Obesity: The GLORY-2 Randomized Clinical Trial](jama/2026-08/42251595.md) — 2026-08-04 🆓（Medicine · Obesity · Body mass index）
+- [Peripheral Neuropathy](jama/2026-08/42240982.md) — 2026-08-04（Medicine · Peripheral neuropathy · Peripheral）
+- [Point-of-Care Ultrasound for the Diagnosis of Pneumonia](jama/2026-08/42234414.md) — 2026-08-04（Medicine · Ultrasound · Radiology）
+
+### 2026-07
+
+- [Initial HIV Therapy for Adults and Treatment-Associated Weight Gain: Research Summary](jama/2026-07/42536021.md) — 2026-07-31（Medicine · Tenofovir alafenamide · Weight gain）
+- [Initial HIV Therapy for Adults and Treatment-Associated Weight Gain: The Opti-DOR Randomized Clinical Trial](jama/2026-07/42536019.md) — 2026-07-31 🆓（Tenofovir alafenamide · Medicine · Regimen）
+- [WHO Issues Guidelines for Treating Ebola and Marburg Viruses](jama/2026-07/42390994.md) — 2026-07-28（Medicine · Virology · Ebola virus）
+- [FDA Approves Additional Naloxone Nasal Spray for Opioid Overdose](jama/2026-07/42390990.md) — 2026-07-28（Medicine · Opioid overdose · (+)-Naloxone）
+- [HIV May Hide in More Cells Than Previously Thought-Here's What That Could Mean for a Cure](jama/2026-07/42390980.md) — 2026-07-28（Medicine · Human immunodeficiency virus (HIV) · MEDLINE）
+- [US Dietary Supplement Use Increasing, Especially in Older Adults](jama/2026-07/42390979.md) — 2026-07-28（Medicine · Dietary supplement · Environmental health）
+- [Heat Stress From Climate Change Surges Globally](jama/2026-07/42390978.md) — 2026-07-28
+- [Strength Training Linked With Lower Cardiovascular Disease Risk in Women](jama/2026-07/42390975.md) — 2026-07-28（Medicine · Strength training · Physical therapy）
+- [First Alzheimer Disease Blood Test May Produce Many False-Positive Results, Study Finds](jama/2026-07/42390973.md) — 2026-07-28（Medicine · Alzheimer's disease · Disease）
+- [FDA Adds Kidney Injury Warning to OTC Weight-Loss Drug Orlistat](jama/2026-07/42390971.md) — 2026-07-28（Medicine · Orlistat · Drug）
+- [Deescalation, Discontinuation, and Deimplementation Trials: Evaluating Whether and How to Do Less](jama/2026-07/42384421.md) — 2026-07-28（Medicine · MEDLINE · Clinical trial）
+- [From Silicon Valley to the Vatican-The Expanding Debate on AI Ethics](jama/2026-07/42384393.md) — 2026-07-28（Medicine · Silicon valley · Public health）
+- [Effect of Recruitment Video Presenter Sex on Trial Enrollment](jama/2026-07/42384370.md) — 2026-07-28 🆓（Medicine · Danish · Clinical trial）
+- [Use of Social Media for Health Information Among US Adults](jama/2026-07/42377946.md) — 2026-07-28 🆓（Medicine · Social media · Health information）
+- [Specialized or General-Purpose-The Wrong Question for Mental Health AI Safety](jama/2026-07/42371659.md) — 2026-07-28（Medicine · Harm · Mental health）
+- [Pricing for Oncology Biosimilars](jama/2026-07/42371655.md) — 2026-07-28
+- [Reporting Error](jama/2026-07/42371645.md) — 2026-07-28 🆓（Medicine · Biosimilar · MEDLINE）
+- [Replacement Text for Funding/Support Section](jama/2026-07/42371640.md) — 2026-07-28 🆓
+- [Pricing for Oncology Biosimilars-Reply](jama/2026-07/42371639.md) — 2026-07-28
+- [Cesarean Delivery](jama/2026-07/42348205.md) — 2026-07-28
+- [Training Health Speakers](jama/2026-07/42348188.md) — 2026-07-28
+- [Cesarean Delivery-Reply](jama/2026-07/42348186.md) — 2026-07-28
+- [Seymour Plan For Disease Prevention](jama/2026-07/42348184.md) — 2026-07-28
+- [Insufficient Sleep Among US Adolescents](jama/2026-07/42340739.md) — 2026-07-28
+- [Insufficient Sleep Among US Adolescents-Reply](jama/2026-07/42340703.md) — 2026-07-28（Medicine · Comparability · Sleep (system call)）
+- [CMS' GLP-1 Bridge Demonstration-Questions and Potential Consequences](jama/2026-07/42340687.md) — 2026-07-28（Medicine · Bridge (graph theory) · Medicaid）
+- [Review of Type 1 Diabetes-Reply](jama/2026-07/42307940.md) — 2026-07-28
+- [Bispecific Antibody Ivonescimab Added to Chemotherapy in EGFR-Variant Non-Small Cell Lung Cancer: Research Summary](jama/2026-07/42307939.md) — 2026-07-28（Medicine · Bispecific antibody · Lung cancer）
+- [Farther, Faster, and More Often](jama/2026-07/42307938.md) — 2026-07-28（Medicine · Contentment · Narrative）
+- [Bispecific Antibody Ivonescimab Added to Chemotherapy in EGFR-Variant Non-Small Cell Lung Cancer: The HARMONi-A Randomized Clinical Trial](jama/2026-07/42307937.md) — 2026-07-28 🆓（Medicine · Pemetrexed · Internal medicine）
+- [Review of Type 1 Diabetes](jama/2026-07/42307926.md) — 2026-07-28
+- [Review of Type 1 Diabetes](jama/2026-07/42307919.md) — 2026-07-28
+- [Review of Type 1 Diabetes](jama/2026-07/42307915.md) — 2026-07-28
+- [Prone Positioning in Viral Bronchiolitis-Back to the Back?](jama/2026-07/42307574.md) — 2026-07-28（Medicine · Prone position · Coronavirus disease 2019 (COVID-19)）
+- [Prone Positioning in Infants With Acute Bronchiolitis: Research Summary](jama/2026-07/42307573.md) — 2026-07-28（Medicine · Prone position · Acute Bronchiolitis）
+- [Prone Positioning in Infants With Acute Bronchiolitis: The PROPOSITIS Randomized Clinical Trial](jama/2026-07/42307570.md) — 2026-07-28 🆓（Medicine · Prone position · Nasal cannula）
+- [Adults With Mild to Moderate Hearing Loss](jama/2026-07/42275052.md) — 2026-07-28（Medicine · Hearing loss · Audiology）
+- [When Patients Share Everything With an AI Chatbot: Risks and Opportunities of Large Language Models](jama/2026-07/42275042.md) — 2026-07-28（Medicine · Chatbot · Upload）
+- [Low-Dose Rivaroxaban and Cardiovascular Events in Advanced Kidney Disease: The TRACK Randomized Clinical Trial](jama/2026-07/42240165.md) — 2026-07-28 🆓（Medicine · Rivaroxaban · Kidney disease）
+- [Low-Dose Rivaroxaban and Cardiovascular Events in Advanced Kidney Disease: Research Summary](jama/2026-07/42240161.md) — 2026-07-28（Medicine · Rivaroxaban · Kidney disease）
+- [Rivaroxaban for Cardiovascular Disease Prevention in Chronic Kidney Disease: High Risk, but No Reward?](jama/2026-07/42240149.md) — 2026-07-28（Medicine · Rivaroxaban · Kidney disease）
+- [Hearing Aids for Adults With Mild to Moderate Hearing Loss](jama/2026-07/42201716.md) — 2026-07-28（Medicine · Hearing aid · Audiology）
+- [Biomarker-Based Eligibility for Lung Cancer Screening: Validation of the Protein-Based INTEGRAL-Risk Model](jama/2026-07/42149699.md) — 2026-07-28 🆓（Medicine · Lung cancer · Cohort）
+- [What Is Cyclosporiasis?](jama/2026-07/42479478.md) — 2026-07-21（Medicine · MEDLINE · Family medicine）
+- [US Food Swamps Have Increased as Food Deserts Remain Static](jama/2026-07/42360770.md) — 2026-07-21（Medicine · Swamp · Food supply）
+- [Earlier Egg Introduction Recommendations Linked to Fewer Infant Allergies](jama/2026-07/42360766.md) — 2026-07-21（Medicine · Allergy · Pediatrics）
+- [FDA Approves First New Active Sunscreen Ingredient in Decades](jama/2026-07/42360764.md) — 2026-07-21（Medicine · Ingredient · Active ingredient）
+- [HHS Says Psychiatric Medications Are Overprescribed, but Are They?](jama/2026-07/42360762.md) — 2026-07-21（Medicine · Psychiatry · MEDLINE）
+- [FDA Approves First Over-the-Counter Continuous Glucose Monitor for Children](jama/2026-07/42360759.md) — 2026-07-21（Medicine · Continuous glucose monitoring · Intensive care medicine）
+- [Ebola May Be Associated With Lasting Neurological Complications](jama/2026-07/42360757.md) — 2026-07-21（Medicine · Intensive care medicine · MEDLINE）
+- [PCOS Is Now PMOS-Will a New Name Translate to Improved Clinical Care?](jama/2026-07/42360724.md) — 2026-07-21（Medicine · Polycystic ovary · Gynecology）
+- [Accrediting Bodies to Increase Nutrition Education Requirements](jama/2026-07/42360718.md) — 2026-07-21（Medicine · Nutrition Education · Medical education）
+- [Errors in Figures](jama/2026-07/42348191.md) — 2026-07-21 🆓
+- [Correction to Primary Composite Outcome in a Trial of Transfusion Strategy](jama/2026-07/42340742.md) — 2026-07-21 🆓（Medicine · Outcome (game theory) · Intensive care medicine）
+- [Primary Composite Outcome Corrected in a Trial of Transfusion Strategy in Myocardial Infarction and Anemia](jama/2026-07/42340714.md) — 2026-07-21（Medicine · Myocardial infarction · Anemia）
+- [National Trends in Patient Messaging-The Growing Electronic Inbox](jama/2026-07/42329647.md) — 2026-07-21（Medicine · Family medicine · MEDLINE）
+- [Trends in Newborn Hepatitis B Virus Vaccination-Reply](jama/2026-07/42329631.md) — 2026-07-21（Medicine · Virology · Hepatitis B virus）
+- [Trends in Newborn Hepatitis B Virus Vaccination](jama/2026-07/42329630.md) — 2026-07-21
+- [Trends in Patient Portal Messages, Office Visits, and Telephone Encounters](jama/2026-07/42329625.md) — 2026-07-21 🆓（Medicine · Telehealth · Patient portal）
+- [Beyond Binary-The Case for Amyloid Centiloid Quantification](jama/2026-07/42307963.md) — 2026-07-21（Medicine · Amyloid (mycology) · Cognitive impairment）
+- [Author AI Disclosure in JAMA Network Journal Submissions-Reply](jama/2026-07/42307958.md) — 2026-07-21（Medicine · MEDLINE · Medical education）
+- [Author AI Disclosure in JAMA Network Journal Submissions](jama/2026-07/42307954.md) — 2026-07-21（Medicine · MEDLINE · Medical education）
+- [Unpacking the Rise in Early-Onset Cancer: A Healthy Dialogue With Kimmie Ng and Ilana Richman](jama/2026-07/42307920.md) — 2026-07-21（Medicine · Unpacking · Cancer）
+- [Illicit Injectable Peptides and Regulatory Gaps](jama/2026-07/42295803.md) — 2026-07-21（Medicine · Illicit drug · Drug）
+- [A Book for Medical Device Patents-Reply](jama/2026-07/42295794.md) — 2026-07-21（Medicine · Medical device · Medical emergency）
+- [A Book for Medical Device Patents](jama/2026-07/42295785.md) — 2026-07-21
+- [Editorials](jama/2026-07/42295779.md) — 2026-07-21
+- [An AI-Based OCT System to Detect Diabetic Macular Edema: A Prospective Validation and Noninferiority Randomized Clinical Trial](jama/2026-07/42295755.md) — 2026-07-21 🆓（Medicine · Referral · Diabetic retinopathy）
+- [Where the Heron Flies](jama/2026-07/42275055.md) — 2026-07-21（Medicine · Heron · Beauty）
+- [Treatment of Brain Metastases With Stereotactic Radiation vs Hippocampal-Avoidance Whole Brain Radiation](jama/2026-07/42275054.md) — 2026-07-21（Medicine · Stereotactic radiotherapy · Radiosurgery）
+- [Treatment of Brain Metastases With Stereotactic Radiation vs Hippocampal-Avoidance Whole Brain Radiation](jama/2026-07/42275049.md) — 2026-07-21（Medicine · Stereotactic radiotherapy · Radiosurgery）
+- [Treatment of Brain Metastases With Stereotactic Radiation vs Hippocampal-Avoidance Whole Brain Radiation](jama/2026-07/42275025.md) — 2026-07-21（Medicine · Stereotactic radiotherapy · Radiosurgery）
+- [Treatment of Brain Metastases with Stereotactic Radiation vs Hippocampal-Avoidance Whole Brain Radiation-Reply](jama/2026-07/42275023.md) — 2026-07-21（Medicine · Stereotactic radiotherapy · Radiology）
+- [Finerenone in Patients With Chronic Kidney Disease Due to Glomerular Diseases: A Randomized Clinical Trial](jama/2026-07/42246414.md) — 2026-07-21 🆓（Medicine · Renal function · Kidney disease）
+- [Finerenone in Patients With Chronic Kidney Disease Due to Glomerular Diseases: Research Summary](jama/2026-07/42246412.md) — 2026-07-21（Medicine · Kidney disease · Internal medicine）
+- [Head and Neck Cancer](jama/2026-07/42207524.md) — 2026-07-21
+- [The MV Hondius Hantavirus Outbreak-Lessons for Pandemic Preparedness](jama/2026-07/42189668.md) — 2026-07-21（Medicine · Preparedness · Pandemic）
+- [Weight Loss in Older Patients With Persistent Atrial Fibrillation: Research Summary](jama/2026-07/42160070.md) — 2026-07-21（Medicine · Weight loss · Internal medicine）
+- [Does Weight Loss Prevent Atrial Fibrillation?](jama/2026-07/42160065.md) — 2026-07-21
+- [Weight Loss in Older Patients With Persistent Atrial Fibrillation: The LOSE-AF Randomized Clinical Trial](jama/2026-07/42160044.md) — 2026-07-21 🆓（Medicine · Weight loss · Overweight）
+- [Remote Multicomponent Rehabilitation in Intensive Care Unit Survivors: A Randomized Clinical Trial](jama/2026-07/42150121.md) — 2026-07-21 🆓（Medicine · Rehabilitation · Randomized controlled trial）
+- [The Future of Survivorship in Critical Illness](jama/2026-07/42150110.md) — 2026-07-21
+- [Remote Multicomponent Rehabilitation in Intensive Care Unit Survivors: Research Summary](jama/2026-07/42150105.md) — 2026-07-21（Medicine · Rehabilitation · Intensive care unit）
+- [Caring for Adult Patients With Sepsis](jama/2026-07/41886281.md) — 2026-07-21（Medicine · Sepsis · Intensive care medicine）
+- [Caring for Pediatric Patients With Sepsis](jama/2026-07/41886275.md) — 2026-07-21（Medicine · Guideline · Septic shock）
+- [Stopping Alzheimer Disease: 50 Years of Progress](jama/2026-07/42329624.md) — 2026-07-14（Medicine · Alzheimer's disease · Perspective (graphical)）
+- [Postoperative Delirium May Predict Long-Term Cognitive Decline](jama/2026-07/42313561.md) — 2026-07-14（Medicine · Cognitive decline · Delirium）
+- [FDA Advises Against Over-the-Counter Skin Lightening Products](jama/2026-07/42313557.md) — 2026-07-14（Medicine · MEDLINE · Traditional medicine）
+- [ACOG Releases Maternal Immunization Schedule, Breaking From CDC](jama/2026-07/42313556.md) — 2026-07-14（Medicine · Immunization · Virology）
+- [ACP, AMA Decry Executive Order to Change Childhood Vaccine Schedule](jama/2026-07/42313555.md) — 2026-07-14（Medicine · Schedule · Executive order）
+- [In Obesity Treatment, Physical Activity's Benefits Go Beyond Weight Loss, Says AHA](jama/2026-07/42313548.md) — 2026-07-14（Medicine · Obesity · Statement (logic)）
+- [A New GLP-1 Pill for Diabetes, Semaglutide With Amylin, Data From China, and More From ADA 2026](jama/2026-07/42313535.md) — 2026-07-14（Medicine · Pill · Semaglutide）
+- [About 1 in 5 US Youth Use AI Chatbots for Mental Health Advice](jama/2026-07/42313532.md) — 2026-07-14（Medicine · Advice (programming) · Mental health）
+- [Ultraprocessed Foods Linked to Cardiometabolic Risks](jama/2026-07/42313531.md) — 2026-07-14（Medicine · Environmental health · MEDLINE）
+- [The Wizard of Oz in Medical AI](jama/2026-07/42307961.md) — 2026-07-14（Wizard of oz · Medicine · Wizard）
+- [Nursing Home Closures and Access to Long-Term Care](jama/2026-07/42307912.md) — 2026-07-14 🆓（Medicine · Nursing homes · Nursing）
+- [Low Back Pain: A Review](jama/2026-07/42295944.md) — 2026-07-14（Medicine · Low back pain · Back pain）
+- [Changes in Specialty and Geography of Medicare's New Residency Positions](jama/2026-07/42295775.md) — 2026-07-14 🆓（Medicine · Specialty · Rurality）
+- [Correction to Mortality Data in Perspective](jama/2026-07/42275090.md) — 2026-07-14 🆓
+- [The Leisure Corner: High Fidelity Recording](jama/2026-07/42275058.md) — 2026-07-14
+- [Female Clinical Resilience Despite Pathologic Risk in Alzheimer Disease](jama/2026-07/42268632.md) — 2026-07-14（Medicine · Alzheimer's disease · Perspective (graphical)）
+- [Exocrine Pancreatic Insufficiency](jama/2026-07/42268629.md) — 2026-07-14（Medicine · Exocrine pancreatic insufficiency · Internal medicine）
+- [HIV, Pregnancy, and Infant Feeding-Reply](jama/2026-07/42268627.md) — 2026-07-14
+- [HIV, Pregnancy, and Infant Feeding](jama/2026-07/42268622.md) — 2026-07-14
+- [ESGO Statements on Opportunistic Salpingectomy for Prevention of Tubo-Ovarian Carcinoma](jama/2026-07/42258227.md) — 2026-07-14（Medicine · General surgery · Carcinoma）
+- [ESGO Statements on Opportunistic Salpingectomy for Prevention of Tubo-Ovarian Carcinoma-Reply](jama/2026-07/42258223.md) — 2026-07-14（Medicine · Salpingectomy · MEDLINE）
+- [Resurgence of Tetanus-Why the Vaccine Remains Instrumental](jama/2026-07/42258205.md) — 2026-07-14（Medicine · MEDLINE · Tetanus）
+- [ESGO Statements on Opportunistic Salpingectomy for Prevention of Tubo-Ovarian Carcinoma](jama/2026-07/42258191.md) — 2026-07-14（Medicine · General surgery · Carcinoma）
+- [Chatting With AI and the Electronic Health Record](jama/2026-07/42240990.md) — 2026-07-14（Medicine · Electronic health record · Health records）
+- [Chasing Zebras](jama/2026-07/42240985.md) — 2026-07-14（Medicine · Narrative · Face (sociological concept)）
+- [Treatments for Opioid Overdose-Reply](jama/2026-07/42240979.md) — 2026-07-14
+- [Treatments for Opioid Overdose](jama/2026-07/42240977.md) — 2026-07-14
+- [What Is Ebola?](jama/2026-07/42234553.md) — 2026-07-14（Medicine · Outbreak · MEDLINE）
+- [Cancer Diagnostic Delay Rates Associated With a Population-Based Screening Trial Evaluating a Cell-Free DNA Multicancer Early Detection Test](jama/2026-07/42217468.md) — 2026-07-14 🆓（Medicine · Referral · Cancer）
+- [Multicancer Detection Tests: Promise, Hype, and Reality](jama/2026-07/42217467.md) — 2026-07-14
+- [Spillover Effects in Clinical Trials](jama/2026-07/42217466.md) — 2026-07-14
+- [Adverse Pregnancy Outcomes and Sedentary Behavior, Light-Intensity Physical Activity, and Daily Steps](jama/2026-07/42202772.md) — 2026-07-14 🆓（Medicine · Pregnancy · Adverse effect）
+- [The CRT-Estimands Framework for Cluster Randomized Trials](jama/2026-07/42165658.md) — 2026-07-14（Medicine · Randomized controlled trial · Cluster (spacecraft)）
+- [Teriparatide Plus Zoledronic Acid for Osteogenesis Imperfecta: Research Summary](jama/2026-07/42133336.md) — 2026-07-14（Medicine · Zoledronic acid · Osteogenesis imperfecta）
+- [Teriparatide Plus Zoledronic Acid for Osteogenesis Imperfecta: A Randomized Clinical Trial](jama/2026-07/42133304.md) — 2026-07-14 🆓（Medicine · Teriparatide · Zoledronic acid）
+- [Threshold in Focus-Defining Amyloid Positivity on the Centiloid Scale](jama/2026-07/42441393.md) — 2026-07-13（Medicine · Scale (ratio) · Amyloid (mycology)）
+- [Amyloid PET Quantitation and Centiloid Thresholds in the Diagnosis of Alzheimer Disease: An Individual Participant Data Meta-Analysis](jama/2026-07/42441390.md) — 2026-07-13 🆓（Medicine · Positron emission tomography · Cutoff）
+- [Clinicopathologic Evaluation of Amyloid Clearance in Alzheimer Disease](jama/2026-07/42437499.md) — 2026-07-12 🆓（Medicine · Neuropathology · Amyloid (mycology)）
+- [FDA Approves First Treatment for Chronic Hepatitis Delta Virus Infection](jama/2026-07/42284063.md) — 2026-07-07（Medicine · Virology · Chronic hepatitis）
+- [Soccer Heading Tied to Spikes in Biomarkers of Neural Damage](jama/2026-07/42284044.md) — 2026-07-07（Medicine · Heading (navigation) · Neuroscience）
+- [Some Common Food Additives Linked to Hypertension and CVD](jama/2026-07/42284043.md) — 2026-07-07（Medicine · Food additive · Food science）
+- [Inside the Push for a Fentanyl Vaccine](jama/2026-07/42284036.md) — 2026-07-07（Medicine · Fentanyl · Clinical trial）
+- [Surgeon General's Advisory Warns Against Children's Excessive Screen Use](jama/2026-07/42284035.md) — 2026-07-07（Medicine · Medical emergency · Advisory committee）
+- [First National Estimates of Type 2 Diabetes in Children Raise Alarm](jama/2026-07/42284025.md) — 2026-07-07（Medicine · Type 2 diabetes · ALARM）
+- [Certain Dietary Patterns May Help Perimenopausal Women Manage Weight](jama/2026-07/42284024.md) — 2026-07-07（Medicine · Environmental health · MEDLINE）
+- [Error in Text](jama/2026-07/42275084.md) — 2026-07-07 🆓
+- [Slow Life Support for Imminently Dying Patients](jama/2026-07/42268637.md) — 2026-07-07（Medicine · Negotiation · Intensive care medicine）
+- [Survivors of Cyanotic Congenital Heart Disease: A Review](jama/2026-07/42258347.md) — 2026-07-07（Medicine · Tetralogy of Fallot · Cardiology）
+- [Trends in National Institutes of Health Investigators by Sex, Race, Ethnicity, and Disability Status](jama/2026-07/42258198.md) — 2026-07-07 🆓（Medicine · Fiscal year · Gerontology）
+- [Insulin Cost Caps, Trade-Offs, and Pharmacoequity in Diabetes](jama/2026-07/42250274.md) — 2026-07-07（Medicine · Diabetes mellitus · Internal medicine）
+- [Insulin Costs and Use by Medicare Beneficiaries After the Inflation Reduction Act Out-of-Pocket Cap](jama/2026-07/42250272.md) — 2026-07-07 🆓（Medicine · Insulin · Decile）
+- [Why Celebrate?](jama/2026-07/42240976.md) — 2026-07-07
+- [Controversies About Osteoporotic Fracture Prevention Strategies](jama/2026-07/42234459.md) — 2026-07-07（Medicine · Osteoporotic fracture · Osteoporosis）
+- [Coffee, Tea, and Cognitive Function](jama/2026-07/42234455.md) — 2026-07-07
+- [Private Equity's Growing Presence in Health Care-Promise or Peril?: A Healthy Dialogue With Sneha Kannan](jama/2026-07/42234450.md) — 2026-07-07（Medicine · Health care · Equity (law)）
+- [Coffee, Tea, and Cognitive Function-Reply](jama/2026-07/42234438.md) — 2026-07-07
+- [Incentivizing Kidney Transplants While Safeguarding Equity](jama/2026-07/42234436.md) — 2026-07-07（Medicine · Safeguarding · Medicaid）
+- [Trials That Inform Health Policy: A Bridge Too Far?](jama/2026-07/42234421.md) — 2026-07-07
+- [Errors in References](jama/2026-07/42234416.md) — 2026-07-07 🆓
+- [Above-Goal BP Among Adults With Hypertension in the US-Reply](jama/2026-07/42223971.md) — 2026-07-07（Medicine · Blood pressure · Internal medicine）
+- [Decision and Cost-Effectiveness Analyses Complement Results From Randomized Clinical Trials](jama/2026-07/42223966.md) — 2026-07-07（Medicine · Complement (music) · Randomized controlled trial）
+- [Cost-Effectiveness of Fecal Immunochemical Testing Alone vs Co-Testing With Helicobacter pylori Stool Antigen](jama/2026-07/42223961.md) — 2026-07-07 🆓（Medicine · Incremental cost-effectiveness ratio · Life expectancy）
+- [Advertising in AI-Powered Clinical Decision Support Tools](jama/2026-07/42223958.md) — 2026-07-07（Medicine · Decision support system · Clinical decision support system）
+- [Above-Goal BP Among Adults With Hypertension in the US](jama/2026-07/42223955.md) — 2026-07-07（Medicine · Blood pressure · Internal medicine）
+- [Nalbuphine for Cough Caused by Idiopathic Pulmonary Fibrosis-Reply](jama/2026-07/42207544.md) — 2026-07-07（Medicine · Nalbuphine · Anesthesia）
+- [Nalbuphine for Cough Caused by Idiopathic Pulmonary Fibrosis](jama/2026-07/42207542.md) — 2026-07-07（Medicine · Idiopathic pulmonary fibrosis · Internal medicine）
+- [Nalbuphine for Cough Caused by Idiopathic Pulmonary Fibrosis](jama/2026-07/42207529.md) — 2026-07-07 🆓（Medicine · Idiopathic pulmonary fibrosis · Internal medicine）
+- [Nalbuphine for Cough Caused by Idiopathic Pulmonary Fibrosis](jama/2026-07/42207499.md) — 2026-07-07（Medicine · Idiopathic pulmonary fibrosis · Internal medicine）
+- [Pain and Pressure](jama/2026-07/42166150.md) — 2026-07-07（Medicine · Pain medicine · Narrative review）
+- [Management of Spontaneous Abortion Among Commercially Insured Individuals in the United States After Dobbs v Jackson](jama/2026-07/42149588.md) — 2026-07-07 🆓（Medicine · Misoprostol · Abortion）
+- [Chikungunya](jama/2026-07/42126860.md) — 2026-07-07
+- [Chikungunya](jama/2026-07/42126831.md) — 2026-07-07（Medicine · Chikungunya · Virology）
